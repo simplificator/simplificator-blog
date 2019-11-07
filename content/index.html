@@ -1,0 +1,13 @@
+---
+layout: layouts/default
+title: Simplificator blog
+---
+
+<h1>Simplificator blog</h1>
+
+{% for post in collections.post reversed %}
+<article>
+  <h2>{{ post.data.title }}</h2>
+  {{ post.data.content }}
+</article>
+{% endfor %}
