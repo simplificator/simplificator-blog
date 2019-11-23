@@ -7,7 +7,7 @@ title: Simplificator blog
 
 {% for post in collections.post reversed %}
 <article>
-  <h2>{{ post.data.title }}</h2>
-  {{ post.data.content }}
+  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+  {{ post.templateContent }}
 </article>
 {% endfor %}
