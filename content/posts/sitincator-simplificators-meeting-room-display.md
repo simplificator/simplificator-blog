@@ -3,13 +3,13 @@ title: "“Sitincator” - Simplificator’s Meeting Room Display"
 date: 2017-01-12
 ---
 
-![image03](images/image03.png)
+![image03](/images/image03.png)
 
 We have two meeting rooms at our Simplificator headquarter office in central Zurich. As they have opaque doors and no windows towards the aisle, it was often unclear whether a meeting room was occupied or not. Frequently, people opened the door and immediately apologized when realizing that there was an ongoing meeting. As an agile company we strive to reduce such nuisances and to improve our efficiency.
 
 We, the “Smooth Operators” team, came up with an idea to improve the situation by mounting a display next to the door of each meeting room showing its occupancy. A 3-day retreat was planned to focus our efforts on this project.
 
-![image02](images/image02.png)
+![image02](/images/image02.png)
 
 We decided to use a Raspberry Pi 3 with its official touch screen display. This allowed us to not only display information, but to make the system interactive. We started out by brainstorming the functionality we wanted to provide to the user. Most importantly, it should be obvious whether the meeting room was occupied or not. Scheduled meetings of the current day should be visible and we wanted to provide the ability to make a “quick reservation”, i.e. anonymously book the room for 15 or 30min. This feature is quite useful if you want to have a short ad-hoc talk or a quick phone call. As we already schedule meetings in Simplificator’s Google Calendar, we fetch booking data from the [Google Calendar API](https://developers.google.com/google-apps/calendar/).
 

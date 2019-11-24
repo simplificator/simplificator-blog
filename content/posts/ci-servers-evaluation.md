@@ -56,7 +56,7 @@ And last but not least - if you have a private projects using software as a serv
 
 ### Semaphore
 
-[![Semaphoreapp logo](images/semaphore-logo.png)](https://semaphoreapp.com/) [Semaphore](https://semaphoreapp.com/) is hosted CI application for ruby. It supports Github based collaboration and is integrated with Github. Configuration is easy and builds are really fast. Various kinds of notifications and aggregation of build history are supported.
+[![Semaphoreapp logo](/images/semaphore-logo.png)](https://semaphoreapp.com/) [Semaphore](https://semaphoreapp.com/) is hosted CI application for ruby. It supports Github based collaboration and is integrated with Github. Configuration is easy and builds are really fast. Various kinds of notifications and aggregation of build history are supported.
 
 Unfortunately it’s only for ruby, but most our projects are in ruby so it’s worth trying.
 
@@ -78,7 +78,7 @@ It’s a really nice service. I very much like the simplicity of adding new proj
 
 ### Travis
 
-[![Travis CI logo](images/travis-logo.png)](http://travis-ci.org/) [Travis](http://travis-ci.org/) is distributed build system for open source community. At the beginning it only allowed public projects, version that supports private projects is currently in beta. It’s highly customizable and build configuration is stored in the repository). It started as a service for ruby projects but it supports other languages too.
+[![Travis CI logo](/images/travis-logo.png)](http://travis-ci.org/) [Travis](http://travis-ci.org/) is distributed build system for open source community. At the beginning it only allowed public projects, version that supports private projects is currently in beta. It’s highly customizable and build configuration is stored in the repository). It started as a service for ruby projects but it supports other languages too.
 
 You can login with Github account and it will automatically scan for suitable repositories. The drawback is that pro version supports only private projects. So if one needs to build both kind of project registration in two services is required. Also only repositories with admin access are displayed. Similar as in [Semaphore](#semaphore) each build is executed on separate virtual machine but here there are more possibilities of configuring it. Although it’s not possible to change the os version the machine comes with passwordless sudo and apt installed. This allows installing all necessary dependencies and experimenting. There also are some environment variables available.
 
@@ -102,7 +102,7 @@ Also it’s a pity that it does not support iOS applications but you cannot have
 
 ### Circle
 
-[![Circle CI logo](images/circle-logo.png)](https://circleci.com/) [Circle](https://circleci.com/) is a service that is designed to work with web apps. It’s main features include easy and fast setup, fast test running and deep customization. It also claims to have very good support. It’s currently on public beta.
+[![Circle CI logo](/images/circle-logo.png)](https://circleci.com/) [Circle](https://circleci.com/) is a service that is designed to work with web apps. It’s main features include easy and fast setup, fast test running and deep customization. It also claims to have very good support. It’s currently on public beta.
 
 User account is tied to Github and repositories are imported automatically. As with [Semaphore](#semaphore) and [Travis](#travis) it runs builds on virtual machines. What is interesting is a possibility to ssh to the virtual machine after build. It can help to investigate reasons of a build failure. In terms of mirroring deployment it’s very similar to [Travis](#travis). It’s possible to install dependencies, tweak commands etc.
 
@@ -126,7 +126,7 @@ Circle is very similar to [Travis](#travis). I like the possibility to SSH to VM
 
 ### Bamboo
 
-[![Bamboo CI logo](images/bamboo-logo.png)](https://circleci.com/) Although [Bamboo](http://www.atlassian.com/software/bamboo/) is available both on demand (as a service) and as installable version in my evaluation I focused on the latter. It is Continuous Integration and Release management system developed by [Atlassian](http://www.atlassian.com/) and is integrating well with their other products. It’s distributed and supports local agent as well as [Amazon Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/). It has nice statistics panel and allows deployment management.
+[![Bamboo CI logo](/images/bamboo-logo.png)](https://circleci.com/) Although [Bamboo](http://www.atlassian.com/software/bamboo/) is available both on demand (as a service) and as installable version in my evaluation I focused on the latter. It is Continuous Integration and Release management system developed by [Atlassian](http://www.atlassian.com/) and is integrating well with their other products. It’s distributed and supports local agent as well as [Amazon Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/). It has nice statistics panel and allows deployment management.
 
 Server installation is fairly easy. All you need to do is to create configuration directory and add its path to the settings. Then just run the server and web setup will guide you through the process.
 
@@ -146,7 +146,7 @@ Bamboo is really good service. What I really like is that’s possible to run it
 
 ### TeamCity
 
-[![TeamCity logo](images/teamcity-logo.gif)](http://www.jetbrains.com/teamcity/) [TeamCity](http://www.jetbrains.com/teamcity/) is developed by [JetBrains](http://www.jetbrains.com/), the same company that brought RubyMine. It’s very user friendly, supports nice project grouping. It’s a distributed platform supporting many languages and having nice IDE integration feature which prevents you from committing broken code.
+[![TeamCity logo](/images/teamcity-logo.gif)](http://www.jetbrains.com/teamcity/) [TeamCity](http://www.jetbrains.com/teamcity/) is developed by [JetBrains](http://www.jetbrains.com/), the same company that brought RubyMine. It’s very user friendly, supports nice project grouping. It’s a distributed platform supporting many languages and having nice IDE integration feature which prevents you from committing broken code.
 
 Installation of TeamCity if fairly easy and similar to [Bamboo](#bamboo). It requires running bundled server and then the setup will guide user through the process. After setting up the server there’s need to setup build runners. TeamCity is designed as distributed service and support the multinode architecture. Because of which it’s possible to mirror deployment environment completely.
 
@@ -162,7 +162,7 @@ I really like this one. Support for ruby and iOS applications almost out of the 
 
 ### Jenkins
 
-[![Jenkins logo](images/jenkins-logo.png)](http://www.jenkins-ci.org/) [Jenkins](http://www.jenkins-ci.org/) is a actively developed fork of [Hudson](http://hudson-ci.org/). It supports plenty of languages. There is possibility to have distributed architecture (via slave nodes). It has a lot of plugins and active community. And last but not least - it’s open source project.
+[![Jenkins logo](/images/jenkins-logo.png)](http://www.jenkins-ci.org/) [Jenkins](http://www.jenkins-ci.org/) is a actively developed fork of [Hudson](http://hudson-ci.org/). It supports plenty of languages. There is possibility to have distributed architecture (via slave nodes). It has a lot of plugins and active community. And last but not least - it’s open source project.
 
 As with [Bamboo](#bamboo) and [TeamCity](#team-city) server setup is as easy as running a downloaded war file and following instructions. But after setting up a server there’s a need for download and setup bunch of plugins. Then there is a need to manage those plugins and keeping them up to date. It’s also worth noticing that jenkins is also available as linux package but this version tend to cause troubles with updating straight from jenkins.
 

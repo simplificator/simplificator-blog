@@ -5,7 +5,7 @@ date: 2013-05-24
 
 Eine typische Situation nach den ersten Erfolgen mit einer Applikation: **Das Team ist langsam,** wehrt sich gegen Anforderungen. Neue Funktionen sind schwierig umzusetzen, und die Testphasen werden länger. Die Software-**Entwicklung wird immer schwieriger**.
 
-[![image](images/tumblr_inline_mnamcgRZFd1qz4rgp.jpg)](http://www.flickr.com/photos/tronics/380379732/sizes/z/in/photostream/ "Flickr")
+[![image](/images/tumblr_inline_mnamcgRZFd1qz4rgp.jpg)](http://www.flickr.com/photos/tronics/380379732/sizes/z/in/photostream/ "Flickr")
 
 Architektur einer Applikation ist eine relativ abstrakte Angelegenheit: Oft von technologischen Überlegungen getrieben, mit dem Wunsch eine allgemeine Lösung für alles zu haben. Auf der einen Seite gibt es den Hacker-Ansatz - auf eine schnelle, unspezifische Weise möglichst schnell zum Ziel zu kommen. Es gleicht einem Basar - alles geht irgendwie, es ist effizient - aber die Systeme sind schwierig zu warten weil die Struktur fehlt. Auf der anderen Seite gibt es die Architektur-Astronauten - sie haben ein Buch (oder mehrere) gelesen, sind überzeugt von dem Wert von Struktur, aber sie überborden: Grundlos bauen sie virtuelle Kathedralen, flechten Schichten über Schichten, machen alles extrem “flexibel” und verlieren die Entwicklungsgeschwindigkeit.
 

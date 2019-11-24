@@ -5,7 +5,7 @@ date: 2013-05-03
 
 Ist es nicht viel zu teuer in der Schweiz Software zu entwickeln? Sätze in Indonesien, Indien, China oder Polen sind Faktoren tiefer als in der Schweiz. Warum müssen wir denn hier entwickeln? Mit Skype und allem müsste es doch einfach sein, im Ausland zu entwickeln - so kostengünstig dass eventuelle Kostenabweichungen oder Ineffizienzen überwunden werden können. Irgendwas stimmt mit dieser Rechnung offenbar nicht.
 
-![image](images/tumblr_inline_mm7r5rsKpB1qz4rgp.jpg)
+![image](/images/tumblr_inline_mm7r5rsKpB1qz4rgp.jpg)
 
 (Infosys, Bangalore. Picture from Wikimedia)
 
@@ -19,11 +19,11 @@ Pascal Betz und ich haben 2006 zusammen vor der Gründung von Simplificator eini
 
 Genau. Danach können nur noch Anwälte Geld verdienen. Zurück zur Schweiz:
 
-**![image](images/tumblr_inline_mm7rc0zUMI1qz4rgp.jpg)**
+**![image](/images/tumblr_inline_mm7rc0zUMI1qz4rgp.jpg)**
 
 **Wie wäre es,** wenn Softwareentwicklung wieder als Arbeit verstanden werden könnte, nicht als Magie, zu erledigen von abstrakten Ressourcen, die ihre Manntage in Cubicles irgendwo auf der Welt als erledigen, sondern **Menschen mit denen man reden kann**? Die regelmässig mit Papier und Bleistift Annahmen klären, Dinge visualisieren, den Auftraggeber zurück in die kontrollierende Position rücken? Die die Fragen fragen die sie interessieren, expliziter von implizitem Bedarf unterscheiden? Statt Jaja-Sklaven echte Diskussionspartner, die **teure Fehlentscheidungen rechtzeitig hinterfragen**, Rückfragen, keine Angst haben die grossen Entscheidungen anzuzweifeln?
 
-![image](images/tumblr_inline_mm7rfsumKd1qz4rgp.jpg)
+![image](/images/tumblr_inline_mm7rfsumKd1qz4rgp.jpg)
 
 Der Ausbildungsstandard in der Schweiz ist hoch. Wir haben ein Qualitätsverständnis, und eine Ehrlichkeit. Wir haben weniger Hierarchiegläubigkeit als andere. Das macht es vielleicht am Anfang des Projektes anstrengender, aber dafür kommt etwas dabei raus. **Als wir das herausgefunden haben, haben wir verstanden dass wir in der Schweiz eine Chance haben mit einer eigenen Firma.**
 

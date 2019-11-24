@@ -7,7 +7,7 @@ Unsere Kundin Limmex hat den Hauptpreis “Innovator of the Year” auf der welt
 
 Limmex hat ein innovatives Alarmsystem entwickelt welches in moderne Uhren integriert ist. Um diese Uhren zu konfigurieren, verwalten, verkaufen und die Alarme zu überwachen haben wir eine Webapplikation entwickelt. Das System ist sowohl für Endkunden wie auch für Administratoren und Notrufzentralen zentraler Anlaufpunkt in der täglichen Arbeit mit den Limmex-Uhren. Die Applikation musste naturgemäss hochverfügbar ausgelegt werden und wird weiterhin von uns betreut, betrieben und weiterentwickelt.
 
-![](images/tumblr_inline_mivpieJqGu1qz4rgp.png)
+![](/images/tumblr_inline_mivpieJqGu1qz4rgp.png)
 
 Weitere Informationen:
 

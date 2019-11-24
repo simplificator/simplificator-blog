@@ -7,4 +7,4 @@ Sollte man sich unbedingt mal anschauen: Die neue iOS App “BROTSEITEN” Die c
 
 BROTSEITEN gewinnt den “seif Award for Social Entrepreneurship 2013”! Weitere Infos zum Projekt auf [http://www.brotseiten.com/](http://www.brotseiten.com/)
 
-![](images/tumblr_inline_my1qvtmC6w1sspvry.jpg)
+![](/images/tumblr_inline_my1qvtmC6w1sspvry.jpg)

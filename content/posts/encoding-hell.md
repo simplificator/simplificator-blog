@@ -44,4 +44,4 @@ If possible then stay within one encoding from input to processing to output. In
 
 According to this Graph ([source](http://en.wikipedia.org/wiki/UTF-8)) UTF-8 is used more and more on the web. Hopefully one day we don't have to think about ISO-8859-1 anymore.
 
-![Growth of UTF-8](images/UnicodeGrow2b.png)
+![Growth of UTF-8](/images/UnicodeGrow2b.png)

@@ -5,7 +5,7 @@ date: 2017-04-28
 
  
 
-![raspberry-pi-logo](images/raspberry-pi-logo.png)
+![raspberry-pi-logo](/images/raspberry-pi-logo.png)
 
  
 
