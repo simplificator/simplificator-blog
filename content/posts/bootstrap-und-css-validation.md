@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap und CSS Validation"
-date: "2013-11-25"
+date: 2013-11-25
 ---
 
 _Generally speaking, we don’t worry about W3C validation._

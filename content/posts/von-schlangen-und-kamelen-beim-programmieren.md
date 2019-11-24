@@ -1,6 +1,6 @@
 ---
 title: "Von Schlangen und Kamelen beim Programmieren"
-date: "2013-08-22"
+date: 2013-08-22
 ---
 
 Verschiedene Programmiersprachen, verschiedene Konventionen für die Namen von Klassen, Methoden, Variablen. 

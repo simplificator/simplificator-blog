@@ -1,6 +1,6 @@
 ---
 title: "Gastbeitrag Personalvermittler"
-date: "2015-06-19"
+date: 2015-06-19
 ---
 
 Im Blogeintrag [„Personalvermittler“](http://blog.simplificator.com/2015/04/30/personalvermittler/) teilt Pascal Betz seine Erfahrungen betreffend Personalvermittler.

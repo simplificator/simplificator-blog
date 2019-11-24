@@ -1,6 +1,6 @@
 ---
 title: "Railsgirls"
-date: "2012-11-14"
+date: 2012-11-14
 ---
 
 Endlich ein paar Worte über den [Rails Girls Zürich](http://railsgirls.ch)–Event am 3. und 4. November 2012. Wir konnten den Event als Sponsoren unterstützen. Keith war Fotograf bevor er Rails-Programmierer wurde, und er konnte beides nutzen - hier ein paar seiner Bilder.

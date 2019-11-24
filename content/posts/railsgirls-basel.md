@@ -1,6 +1,6 @@
 ---
 title: "Railsgirls Basel"
-date: "2013-03-12"
+date: 2013-03-12
 ---
 
 Am 5. und 6. April findet eine weitere Ausgabe von Rails Girls statt. Dieses mal in Basel. Simlpificator ist wieder als Sponsor mit dabei.

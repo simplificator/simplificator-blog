@@ -1,6 +1,6 @@
 ---
 title: "Setting up Cypress with Rails"
-date: "2019-10-11"
+date: 2019-10-11
 ---
 
 [Cypress.io](https://cypress.io) has very nice tooling for testing. We have been experimenting with it in various projects, one of which is a Rails application.

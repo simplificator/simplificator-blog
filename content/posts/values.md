@@ -1,6 +1,6 @@
 ---
 title: "Values"
-date: "2015-03-02"
+date: 2015-03-02
 ---
 
 It's always great to visit a customer and see the magnets with our five values in their offices:

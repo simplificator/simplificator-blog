@@ -1,6 +1,6 @@
 ---
 title: "Simplificator betreut neu Mamagenda.ch"
-date: "2013-05-06"
+date: 2013-05-06
 ---
 
 [Mamagenda.ch](http://www.mamagenda.ch/), ein Angebot von [TravailSuisse](http://www.travailsuisse.ch/), wird neu von Simplificator betreut, gehostet und gewartet.

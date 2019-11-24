@@ -1,6 +1,6 @@
 ---
 title: "Sicher nicht sicher"
-date: "2013-06-12"
+date: 2013-06-12
 ---
 
 ![](images/tumblr_inline_mo9zono4tL1qz4rgp.png)

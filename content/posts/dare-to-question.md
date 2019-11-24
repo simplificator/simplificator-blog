@@ -1,6 +1,6 @@
 ---
 title: "Dare to question"
-date: "2015-02-12"
+date: 2015-02-12
 ---
 
 #### **We had a problem.**

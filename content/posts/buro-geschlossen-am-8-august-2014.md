@@ -1,6 +1,6 @@
 ---
 title: "Büro geschlossen am 8. August 2014"
-date: "2014-07-15"
+date: 2014-07-15
 ---
 
 Wir ziehen um! 

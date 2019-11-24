@@ -1,6 +1,6 @@
 ---
 title: "Manta Reisen"
-date: "2012-07-16"
+date: 2012-07-16
 ---
 
 Ein neues Projekt ist online: [Hochzeitsreise Webseite für Manta Reisen](https://hochzeitsreise.manta.ch/).

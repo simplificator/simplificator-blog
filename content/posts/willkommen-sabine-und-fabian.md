@@ -1,6 +1,6 @@
 ---
 title: "Willkommen Sabine und Fabian"
-date: "2013-06-15"
+date: 2013-06-15
 ---
 
 Anfang Juni ist das Simplificator Team gleich um zwei Mitarbeiter gewachsen. 

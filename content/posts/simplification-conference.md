@@ -1,6 +1,6 @@
 ---
 title: "Simplification Conference"
-date: "2015-09-18"
+date: 2015-09-18
 ---
 
 [![](images/simplification-conference-2015.png)](https://simplificators.files.wordpress.com/2015/09/simplification-conference-2015.png)

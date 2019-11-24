@@ -1,6 +1,6 @@
 ---
 title: "Use a Raspberry Pi 3 as an access point"
-date: "2017-04-28"
+date: 2017-04-28
 ---
 
  

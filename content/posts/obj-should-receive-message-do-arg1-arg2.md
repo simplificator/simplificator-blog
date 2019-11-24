@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2013-03-15"
+date: 2013-03-15
 ---
 
 > obj.should\_receive(:message) do |arg1, arg2|  

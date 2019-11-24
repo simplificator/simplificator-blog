@@ -1,6 +1,6 @@
 ---
 title: "Simple Vagrant setup for Rails applications"
-date: "2015-01-23"
+date: 2015-01-23
 ---
 
 There are many reasons on why you should use Vagrant for your development, as described [here](https://docs.vagrantup.com/v2/why-vagrant) and [here](http://superuser.com/a/588334).

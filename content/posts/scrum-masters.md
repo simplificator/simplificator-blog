@@ -1,6 +1,6 @@
 ---
 title: "Scrum Masters"
-date: "2012-12-12"
+date: 2012-12-12
 ---
 
 Thomas und Tobias sind nun zertifizierte Scrum-Master. Wir gratulieren.

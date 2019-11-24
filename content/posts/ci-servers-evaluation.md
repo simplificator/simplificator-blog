@@ -1,6 +1,6 @@
 ---
 title: "CI servers evaluation"
-date: "2012-09-19"
+date: 2012-09-19
 ---
 
 Currently we are using [Jenkins](http://www.jenkins-ci.org/) as our CI server. But we are not completely satisfied with it. The main problem with [Jenkins](http://www.jenkins-ci.org/) is that it is overloaded with features which makes the UI quite messy. We also hit a problem with upgrading it to a never version, which was probably a conflict between war installer and a debian package. After the upgrade it stopped working and we spent the afternoon bringing it back to life. We are also missing support for projects grouping. And last but not least to make it work you need to install bunch of plugins, which then you need to keep up to date and maintain.

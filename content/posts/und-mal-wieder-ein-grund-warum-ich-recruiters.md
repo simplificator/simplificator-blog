@@ -1,6 +1,6 @@
 ---
 title: "Und mal wieder ein Grund warum ich Recruiters nicht berücksichtige"
-date: "2013-05-01"
+date: 2013-05-01
 ---
 
 1\. Mai, ich kann ausschlafen da ein Feiertag. Das Telefon klingelt mit einer Nummer aus England. 

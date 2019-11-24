@@ -1,6 +1,6 @@
 ---
 title: "“Sitincator” - Simplificator’s Meeting Room Display"
-date: "2017-01-12"
+date: 2017-01-12
 ---
 
 ![image03](images/image03.png)

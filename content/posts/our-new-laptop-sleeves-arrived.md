@@ -1,6 +1,6 @@
 ---
 title: "Our new laptop sleeves arrived"
-date: "2015-03-09"
+date: 2015-03-09
 ---
 
 [![B_phPPkXAAEeS3_](https://simplificators.files.wordpress.com/2015/03/b_phppkxaaees3_.jpg?w=300)](https://simplificators.files.wordpress.com/2015/03/b_phppkxaaees3_.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Personalvermittler"
-date: "2015-04-30"
+date: 2015-04-30
 ---
 
 ![iPhone_no_caller_ID_640](https://simplificators.files.wordpress.com/2015/01/iphone_no_caller_id_640.jpg?w=169)Wir sind regelmässig auf der Suche nach neuen Mitarbeitern. Genau so regelmässig werden wir von Vermittlern kontaktiert.

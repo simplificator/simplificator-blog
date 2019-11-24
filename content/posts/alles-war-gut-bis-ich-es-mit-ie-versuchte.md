@@ -1,6 +1,6 @@
 ---
 title: "alles war gut, bis ich es mit IE versuchte..."
-date: "2013-12-06"
+date: 2013-12-06
 ---
 
 Dieses Problem kennen alle Web-Entwickler: es sieht gut in Chrome aus aber in Firefox stimmen die Schriften nicht. Oder es sieht gut in Safari aus aber im IE ist der Abstand viel zu gross.

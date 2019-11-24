@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2013-02-27"
+date: 2013-02-27
 ---
 
 ![](images/tumblr_mbv2y4gjow1r0nwmko1_500.gif)

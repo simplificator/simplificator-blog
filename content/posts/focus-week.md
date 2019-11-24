@@ -1,6 +1,6 @@
 ---
 title: "Focus Week"
-date: "2013-04-19"
+date: 2013-04-19
 ---
 
 Nach einer intensiven Woche - Alessandro und ich haben die letzten 5 Tage in den Büros eines Kunden gearbeitet - bin ich nun auf dem Weg nach Hause.

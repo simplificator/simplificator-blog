@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Hanami and GraphQL"
-date: "2016-12-07"
+date: 2016-12-07
 ---
 
 ## What is GraphQL?

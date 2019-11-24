@@ -1,6 +1,6 @@
 ---
 title: "MS Access und Ruby?"
-date: "2014-02-24"
+date: 2014-02-24
 ---
 
 Auch das geht.
