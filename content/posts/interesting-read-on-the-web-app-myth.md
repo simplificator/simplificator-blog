@@ -1,5 +1,5 @@
 ---
-title: "Interesting read on "the web app myth""
+title: Interesting read on "the web app myth"
 date: 2015-02-12
 ---
 

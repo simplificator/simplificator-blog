@@ -1,5 +1,5 @@
 ---
-title: "Spannende iOS App "BROTSEITEN" entwickelt"
+title: Spannende iOS App "BROTSEITEN" entwickelt
 date: 2013-12-19
 ---
 
