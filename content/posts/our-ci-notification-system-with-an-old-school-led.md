@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Our CI notification system with an old school LED board"
 date: 2013-03-14
 ---
 

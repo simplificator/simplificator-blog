@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Neue Poster"
 date: 2013-03-25
 ---
 

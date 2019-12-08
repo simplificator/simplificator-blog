@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Wenigstens ein paar der neuen Poster hängen schonmal"
 date: 2013-04-26
 ---
 

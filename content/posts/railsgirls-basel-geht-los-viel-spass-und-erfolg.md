@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Rails Girls Basel 2013"
 date: 2013-04-06
 ---
 

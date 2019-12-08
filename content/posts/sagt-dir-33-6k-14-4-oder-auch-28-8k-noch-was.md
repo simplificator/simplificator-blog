@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Geo Theme für Bootstrap"
 date: 2013-04-04
 ---
 

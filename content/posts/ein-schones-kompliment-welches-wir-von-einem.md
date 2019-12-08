@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Ein schönes Kompliment"
 date: 2013-04-19
 ---
 

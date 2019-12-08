@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "It seemed like a good idea at the time"
 date: 2013-04-12
 ---
 

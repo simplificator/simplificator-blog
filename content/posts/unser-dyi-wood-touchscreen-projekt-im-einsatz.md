@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "DYI-Wood Touchscreen"
 date: 2013-04-05
 ---
 

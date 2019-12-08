@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Limmex in 20min"
 date: 2013-02-28
 ---
 
