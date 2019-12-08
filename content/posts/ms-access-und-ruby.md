@@ -23,21 +23,21 @@ Testen:
 
 in irb
 
-> require ‘rubygems’  
-> require ‘dbi’
-> 
-> username = nil # depends on the DSN  
-> password = nil # depends on the DSN
-> 
-> DBI.connect(‘dbi:odbc:DSN\_NAME’, username, password) do |connection|
-> 
->   res = connection.execute(“SELECT \* FROM SOMETABLE”)  
->   res.each do |row|  
->     ….  
->   end  
->   res.finish
-> 
-> end
+```ruby
+require 'rubygems'
+require 'dbi'
+
+username = nil # depends on the DSN
+password = nil # depends on the DSN
+
+DBI.connect('dbi:odbc:DSN_NAME', username, password) do |connection|
+  res = connection.execute("SELECT * FROM SOMETABLE")
+  res.each do |row|
+    # …
+  end
+  res.finish
+end
+```
 
 Natürlich fängt der Spass hier erst an, in unserem Use-Case sind noch CSV Import von verschlüsselten Attachments und zwei weitere Datenbanken dabei. Stundenweise Spass mit falsch encodierten Dateien und SQL Server sind garantiert:-)
 

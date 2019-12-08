@@ -11,15 +11,19 @@ The EuRuKo started with the key note of Matz. He talked about the Ruby community
 
 Another talk that I really liked was "Little Snippets" from Xavier Noria. He showed real code examples that are often used in practice, and their much simpler and more readable counterparts. This was especially great for me as a junior developer, because I didn't know about some of these easier way to write code. When seeing it, it makes total sense. For example, he mentioned the order of code snippets really matters. If you write it the same order that your brain logically conceives it, another person can read it in one flow, and will understand it right away. Here is an example:
 
-> attr\_reader :deleted\_at
-> attr\_reader :created\_at
-> attr\_reader :updated\_at
+```ruby
+attr_reader :deleted_at
+attr_reader :created_at
+attr_reader :updated_at
+```
 
 This order doesn't really make sense, if you think about the natural flow of a project. Normally, you first create an instance of a class. Later you might update it, and finally, you might delete it. Therefore, this code snippet should really look like this:
 
-> attr\_reader :created\_at
-> attr\_reader :updated\_at
-> attr\_reader :deleted\_at
+```ruby
+attr_reader :created_at
+attr_reader :updated_at
+attr_reader :deleted_at
+```
 
 You might say this is a detail. But we should write code the way our brains can conceive it as natural. This also makes it easier if another person has to work on or maintain the code we wrote.
 

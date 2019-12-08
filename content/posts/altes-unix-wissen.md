@@ -20,7 +20,6 @@ Die ‘alte’ Harddisk sei in `/`, die neue in `/mnt` gemountet. Der Super- Bef
 ```
 cd /
 find . -xdev | cpio -padm /mnt
-
 ```
 
 - `-xdev` : nur Mountpoints, nicht der reingemountete Inhalt wird kopiert.
@@ -44,11 +43,15 @@ Der Superbefehl lautet hier
 ```
 cd /
 find . -xdev | cpio -oa -H newc 
-| rsh -l eisbaer jukebox.fear.ch "cat &gt;/home/eisbaer/akira.cpio"
-
+| rsh -l eisbaer jukebox.fear.ch "cat > /home/eisbaer/akira.cpio"
 ```
 
-\* `-xdev` : siehe oben. \* `-o` : copy-out mode von cpio (klingt falschrum: lese ‘copy out of filesystem). \* `-a` : reset access times. siehe oben. \* `-H newc`: Dies ist speziell. Da wir heutzutage Filesystems haben mit mehr als 65535 Files, reicht der alte Standard nicht mehr. Mit dem newc-fileformat keine Probleme. (wirklich!) \* `rsh` : Da cat auf syrinx läuft, wandert der standard-out von cpio von akira zu standard-in von syrinx. \* (  : Eine Bash-Konforme Art eine Zeile zu spalten. Weglassen und zusammenhängen.)
+- `-xdev` : siehe oben.
+- `-o` : copy-out mode von cpio (klingt falschrum: lese ‘copy out of filesystem).
+- `-a` : reset access times. siehe oben.
+- `-H newc`: Dies ist speziell. Da wir heutzutage Filesystems haben mit mehr als 65535 Files, reicht der alte Standard nicht mehr. Mit dem newc-fileformat keine Probleme. (wirklich!)
+- `rsh` : Da cat auf syrinx läuft, wandert der standard-out von cpio von akira zu standard-in von syrinx.
+- (  : Eine Bash-Konforme Art eine Zeile zu spalten. Weglassen und zusammenhängen.)
 
 Nach diesem Befehl befindet sich der Harddiskinhalt im .cpio-Archiv. Wenn man knapp ist an Platz kann man gzip zwischenschalten (geht aber meistens länger): find . -xdev | cpio -oa -H newc | gzip - | rsh -l eisbaer jukebox.fear.ch “cat >/home/eisbaer/akira.cpio.gz”
 
@@ -61,10 +64,12 @@ oder wenn das archiv gezippt ist
 ```
 rsh -l eisbaer jukebox.fear.ch "cat /home/eisbaer/akira.cpio.gz" 
 | gunzip - | cpio -idm -H newc
-
 ```
 
-\* `-i` : copy-in mode (copy into the filesystem). Also aus dem Archiv lesen. \* `-d` : erzeuge eventuell fehlende Directories. \* `-m` : Modification time wie vorher (siehe oben). \* `-H newc` :Siehe oben (das gute fileformat). Nach diesem Befehl ist das .cpio-Archiv ausgepackt in `/mnt`.
+- `-i` : copy-in mode (copy into the filesystem). Also aus dem Archiv lesen.
+- `-d` : erzeuge eventuell fehlende Directories.
+- `-m` : Modification time wie vorher (siehe oben).
+- `-H newc` :Siehe oben (das gute fileformat). Nach diesem Befehl ist das .cpio-Archiv ausgepackt in `/mnt`.
 
 Um die Festplatte dann in Betrieb zu nehmen, muss man man noch das fstab gegenenenfalls ändern, da die neue Festplatte vielleicht nicht auf dieselben Namen hört wie die alte.
 
@@ -89,7 +94,6 @@ chroot /mnt           # danach tut /mnt so als wäre es /
 lilo                  # welches hoffentlich in /etc/lilo.conf alias
                       # /mnt/etc/lilo/conf alles was es braucht findet
 exit                  # exit beendet chroot
-
 ```
 
 Das heisst, in der chroot-Umgebung kann man so tun als hätte man schon von der neuen Platte gebootet.

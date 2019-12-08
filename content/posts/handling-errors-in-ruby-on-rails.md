@@ -9,53 +9,95 @@ Rails offers multiple ways to deal with exceptions and depending on what you wa
 
 [begin/rescue](http://rubylearning.com/satishtalim/ruby_exceptions.html) blocks are the standard ruby mechanism to deal with exceptions. It might look like this:
 
-\[code language="ruby"\] begin do\_something rescue handle\_exception end \[/code\]
+```ruby
+begin
+  do_something
+rescue
+  handle_exception
+end
+```
 
-This works nice for exceptions that might happen in your code. But what if you want to rescue every occurrence of a specific exception, say a _NoPermissionError_ which might be raised from your security layer? Clearly you do not want to add a begin/rescue block in all your actions just to render an error message, right?
+This works nice for exceptions that might happen in your code. But what if you want to rescue every occurrence of a specific exception, say a `NoPermissionError` which might be raised from your security layer? Clearly you do not want to add a begin/rescue block in all your actions just to render an error message, right?
 
 ## Around filter
 
 An [around filter](http://guides.rubyonrails.org/action_controller_overview.html#after-filters-and-around-filters) could be used to catch all those exceptions of a given class. Honestly I haven't used a before filter for this, this idea came to my mind when writing this blog post.
 
-\[code language="ruby"\] class ApplicationController < ActionController::Base around\_action :handle\_exceptions
+```ruby
+class ApplicationController < ActionController::Base
+  around_action :handle_exceptions
 
-private def handle\_exceptions   begin     yield   rescue NoPermissionError     redirect\_to 'permission\_error' end end end \[/code\]
+  private
+  def handle_exceptions
+    begin
+      yield
+    rescue NoPermissionError
+      redirect_to 'permission_error'
+    end
+  end
+end
+```
 
-## rescue\_from
+## rescue_from
 
-[rescue\_from](http://guides.rubyonrails.org/action_controller_overview.html#rescue-from) gives you the same possibilities as the around filter. It's just shorter and easier to read and if the framework offers a convenient way, then why not use it. There are multiple ways to define a handler for an exception, for a short and sweet handler I prefer the block syntax:
+[`rescue_from`](http://guides.rubyonrails.org/action_controller_overview.html#rescue-from) gives you the same possibilities as the around filter. It's just shorter and easier to read and if the framework offers a convenient way, then why not use it. There are multiple ways to define a handler for an exception, for a short and sweet handler I prefer the block syntax:
 
-\[code language="ruby"\] class ApplicationController < ActionController::Base rescue\_from 'NoPermissionError' do |exception| redirect\_to 'permission\_error' end end \[/code\]
+```ruby
+class ApplicationController < ActionController::Base
+ rescue_from 'NoPermissionError' do |exception|
+   redirect_to 'permission_error'
+ end
+end
+```
 
-## exceptions\_app
+## exceptions_app
 
-There is an additional feature (added in Rails 3.2) that allows to handle exceptions. You can specify an _exceptions\_app_ which is used to handle errors. You can use your own Rails app for this:
+There is an additional feature (added in Rails 3.2) that allows to handle exceptions. You can specify an `exceptions_app` which is used to handle errors. You can use your own Rails app for this:
 
-\[code language="ruby"\] config.exceptions\_app = self.routes \[/code\]
+```ruby
+config.exceptions_app = self.routes
+```
 
 If you do so, then your routing must be configured to match error codes like so:
 
-\[code language="ruby"\] match '/404', to: 'exceptions#handle\_404' ... \[/code\]
+```ruby
+match '/404', to: 'exceptions#handle_404'
+```
 
-Alternatively you can specify a lambda which receives the whole _Rack env_:
+Alternatively you can specify a lambda which receives the whole Rack env:
 
-\[code language="ruby"\] config.exceptions\_app = lambda do |env| # do something end \[/code\]
+```ruby
+config.exceptions_app = lambda do |env|
+  # do something
+end
+```
 
 Do you wonder how you can call an arbitrary action when you have the env? It's pretty easy:
 
-\[code language="ruby"\] action = ExceptionsController.action(:render\_error) action.call(env) \[/code\]
+```ruby
+action = ExceptionsController.action(:render_error)
+action.call(env)
+```
 
-In any case you want to set following configuration for exceptions\_app to be used:
+In any case you want to set following configuration for `exceptions_app` to be used:
 
-\[code language="ruby"\] Rails.application.config.consider\_all\_requests\_local = false Rails.application.config.action\_dispatch.show\_exceptions = true \[/code\]
+```ruby
+Rails.application.config.consider_all_requests_local = false
+Rails.application.config.action_dispatch.show_exceptions = true
+```
 
 But where is the exception you ask? It is stored in the Rack env:
 
-\[code language="ruby"\] env\[<span class="pl-s1"><span class="pl-pds">'</span>action\_dispatch.exception<span class="pl-pds">'</span></span>\] \[/code\]
+```ruby
+env['action_dispatch.exception']
+```
 
 And as a bonus: here is how you can determine an appropriate status code for an exception:
 
-\[code language="ruby"\] wrapper = <span class="pl-s3">ActionDispatch</span>::<span class="pl-s3">ExceptionWrapper</span>.<span class="pl-k">new</span>(env, exception) wrapper.status\_code \[/code\]
+```ruby
+wrapper = ActionDispatch::ExceptionWrapper.new(env, exception)
+wrapper.status_code
+```
 
 There is more information you can extract using the exception wrapper. Best you [look it up in the API description](http://api.rubyonrails.org/classes/ActionDispatch/ExceptionWrapper.html).
 

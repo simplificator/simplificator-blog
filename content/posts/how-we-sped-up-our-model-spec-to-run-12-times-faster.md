@@ -1,5 +1,5 @@
 ---
-title: "How we sped up our model spec to run 12 times faster"
+title: How we sped up our model spec to run 12 times faster
 date: 2015-02-19
 ---
 
@@ -7,53 +7,73 @@ We are using [cancancan](https://github.com/CanCanCommunity/cancancan) as an aut
 
 Let's look at an excerpt of our ability and its spec:
 
-\[code language="ruby"\]
+```ruby
+# ability.rb
 
-\# ability.rb
+def acceptance_modes
+  can [:read], AcceptanceMode
+  if @user.admin?
+    can [:create, :update], AcceptanceMode
+    can :destroy, AcceptanceMode do |acceptance_mode|
+      acceptance_mode.policies.empty?
+    end
+  end
+end
 
-def acceptance\_modes can \[:read\], AcceptanceMode if @user.admin? can \[:create, :update\], AcceptanceMode can :destroy, AcceptanceMode do |acceptance\_mode| acceptance\_mode.policies.empty? end end end
 
-\[/code\]
-
-\[code language="ruby"\]
-
-\# ability\_spec.rb
+# ability_spec.rb
 
 describe Ability do
 
-let!(:admin\_user) { create(:admin\_user) } subject!(:ability) { Ability.new(admin\_user) }
+  let!(:admin_user) { create(:admin_user) }
+  subject!(:ability) { Ability.new(admin_user) }
 
-context 'acceptance mode' do
+  context 'acceptance mode' do
 
-let!(:acceptance\_mode) { create(:acceptance\_mode) }
+    let!(:acceptance_mode) { create(:acceptance_mode) }
 
-before(:each) do create(:policy, :acceptance\_mode => acceptance\_mode) end
+    before(:each) do
+      create(:policy, :acceptance_mode => acceptance_mode)
+    end
 
-\[:read, :create, :update\].each do |action| it { should be\_able\_to(action, acceptance\_mode) } end
+    [:read, :create, :update].each do |action|
+      it { should be_able_to(action, acceptance_mode) }
+    end
 
-it { should\_not be\_able\_to(:destroy, acceptance\_mode) }
+    it { should_not be_able_to(:destroy, acceptance_mode) }
 
-end end
+  end
+end
 
-\[/code\]
 
-\[code language="ruby"\]
+# ability_matcher.rb
 
-\# ability\_matcher.rb
+module AbilityHelper
+  extend RSpec::Matchers::DSL
 
-module AbilityHelper extend RSpec::Matchers::DSL
+  matcher :be_able_to do |action, object|
+    match do |ability|
+      ability.can?(action, object)
+    end
 
-matcher :be\_able\_to do |action, object| match do |ability| ability.can?(action, object) end
+    description do
+      "be able to #{action} -- #{object.class.name}"
+    end
 
-description do "be able to #{action} -- #{object.class.name}" end
+    failure_message do |ability|
+      "expected #{ability.class.name} to be able to #{action} -- #{object.class.name}"
+    end
 
-failure\_message do |ability| "expected #{ability.class.name} to be able to #{action} -- #{object.class.name}" end
+    failure_message_when_negated do |ability|
+      "expected #{ability.class.name} NOT to be able to #{action} -- #{object.class.name}"
+    end
+  end
+end
 
-failure\_message\_when\_negated do |ability| "expected #{ability.class.name} NOT to be able to #{action} -- #{object.class.name}" end end end
-
-RSpec.configure do |config| config.include AbilityHelper end
-
-\[/code\]
+RSpec.configure do |config|
+  config.include AbilityHelper
+end
+```
 
 We first set up a user -- in this case it's an admin user -- and then initialize our ability object with this user. We further have a model called `AcceptanceMode`, which offers the usual CRUD operations. An acceptance mode has many policies. If any policy is attached to an acceptance mode, we don't want to allow it to be deleted.
 
@@ -63,23 +83,26 @@ But is this really necessary? Do we really need to persist the models or could w
 
 Let's take a look at this modified spec:
 
-\[code language="ruby"\]
-
+```ruby
 describe Ability do
 
-let(:stub\_policy) { Policy.new } let!(:admin\_user) { build(:admin\_user) } subject!(:ability) { Ability.new(admin\_user) }
+  let(:stub_policy) { Policy.new }
+  let!(:admin_user) { build(:admin_user) }
+  subject!(:ability) { Ability.new(admin_user) }
 
-context 'acceptance mode' do
+  context 'acceptance mode' do
 
-let(:acceptance\_mode) { build(:acceptance\_mode, :policies => \[stub\_policy\]) }
+    let(:acceptance_mode) { build(:acceptance_mode, :policies => [stub_policy]) }
 
-\[:read, :create, :update\].each do |action| it { should be\_able\_to(action, acceptance\_mode) } end
+    [:read, :create, :update].each do |action|
+      it { should be_able_to(action, acceptance_mode) }
+    end
 
-it { should\_not be\_able\_to(:destroy, acceptance\_mode) }
+    it { should_not be_able_to(:destroy, acceptance_mode) }
 
-end end
-
-\[/code\]
+  end
+end
+```
 
 Note that all the `create` calls are replaced with `build`. We actually don't need the models to be persisted to the database. The ability mainly checks if the user has admin rights (with `admin?`), which can be tested with an in-memory version of a user. Further, the acceptance mode can be built with an array that contains an in-memory stub policy. If you look closely at the `Ability` implementation, you will see that that's not even necessary. Any object could reside in the array and the spec would still pass. But we decided to use an in-memory policy nonetheless.
 

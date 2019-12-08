@@ -11,10 +11,12 @@ Um zu bestimmen ob eine aufgenommene Antwort wieder abgespielt werden soll, grei
 
 Ein Matcher ist ein “callable” welches zwei Argumente nimmt (zwei Requests welche verglichen werden müssen) und ein Boolean wert zurückgibt.
 
-> do |a, b|  
->   true  
-> end
+```ruby
+do |a, b|
+  true
+end
+```
 
-_Ein einfacher (und nutzloser) Matcher._
+### Ein einfacher (und nutzloser) Matcher.
 
 Man kann Custom Matcher einsetzen um z.B. bestimmte Parameter zu ignorieren oder Host Name basiertes loadbalancing (api1.foo.com, api2.foo.com…) abzudecken.

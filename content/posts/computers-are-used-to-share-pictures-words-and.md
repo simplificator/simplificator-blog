@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Web development explained simply"
 date: 2013-02-27
 ---
 

@@ -9,7 +9,9 @@ Why can't we all live with ASCII. Surely 8 bit ought to be enough for everyone;-
 
 So this is the first post on my encoding hell. I plan to follow up with more posts on this topic.
 
-![Bildschirmfoto 2014-12-27 um 13.21.28](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-21-28.png?w=300) **The situation**
+![Bildschirmfoto 2014-12-27 um 13.21.28](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-21-28.png?w=300)
+
+**The situation**
 
 At [Simplificator](http://www.simplificator.com/) we recently worked on a [ETL](http://en.wikipedia.org/wiki/Extract,_transform,_load) application. This application loads data from various sources (databases, files, services, e-mails), processes it (merge, filter, extract, enrich) and stores in various destinations (databases and files). This application is a central tool for data exchange between multiple companies. Data exchanged ranges from list of employees to warranty coverage of refrigerators. Not all sources are under our control and neither are the targets.
 
@@ -21,7 +23,9 @@ ISO 8859-1 (ISO/IEC 8859-1) actually only specifies the printable characters, IS
 
 While in most programming languages it is easy to change the encoding of a string this sometimes includes more troubles than visible at first sight. Those encodings can contain from 256 to more than 1'000'000 code points. In other words: UTF-8 is a superset of CP-1252 and ISO 8859-1. Going from those 8 bit encodings to a (variable length) 4 byte encoding is always possible while for the other way it depends on the content. If an UTF-8 String contains characters which can not be encoded in 8 bit then you have a problem. Say hi to your new best friend the _Encoding::UndefinedConversionError_ (or whatever your programming language of choice throws at you in such cases).
 
-![Bildschirmfoto 2014-12-27 um 13.17.43](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-17-43.png?w=300) **The solutions**
+![Bildschirmfoto 2014-12-27 um 13.17.43](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-17-43.png?w=300)
+
+**The solutions**
 
 There are two solutions for this. Both are relatively easy. And both might cause trouble by the consumers of your output. As mentioned the problem only shows when the content (or parts of it) are not covered by the destination encoding. CP-1252, ISO 8859-1 and UTF-8 share characters between 0020 and 007E (ASCII, without some control codes). As long as your content is within that range there is actually nothing to change when changing the encoding. But if your content lies outside this range then you either have to:
 

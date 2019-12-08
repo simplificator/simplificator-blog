@@ -182,142 +182,16 @@ Jenkins is good piece of software. But the problem is that there’s too much mo
 
 In the table below you will find a comparison of tested solutions (scales are 1 - 5):
 
-Semaphoreapp
-
-Travis
-
-Circle
-
-Bamboo
-
-TeamCity
-
-Jenkins
-
-Easy setup
-
-5 
-
-5 
-
-5 
-
-3.5 
-
-4 
-
-2.5 
-
-Mirroring deployment
-
-2 
-
-4 
-
-3.5 
-
-5 
-
-5 
-
-5 
-
-Build configuration
-
-4.5 
-
-4 
-
-4 
-
-3.5 
-
-4 
-
-3 
-
-Project grouping
-
-2.5 
-
-1.5 
-
-1.5 
-
-5 
-
-5 
-
-3 
-
-Ruby applications support
-
-5 
-
-5 
-
-5 
-
-4.5 
-
-5 
-
-4 
-
-iOS applications support
-
-\-
-
-\-
-
-\-
-
-4.5 
-
-5 
-
-4 
-
-Smart notifications
-
-2 
-
-5 
-
-3 
-
-5 
-
-5 
-
-3 
-
-Test results output
-
-3 
-
-3 
-
-4 
-
-4 
-
-5 
-
-3.5 
-
-User management
-
-\-
-
-\-
-
-\-
-
-4.5 
-
-4.5 
-
-3.5 
+Criteria | Semaphoreapp | Travis | Circle | Bamboo | TeamCity | Jenkins
+--- | --- | --- | --- | --- | --- | ---
+Easy setup | 5 | 5 | 5 | 3.5 | 4 | 2.5 
+Mirroring deployment | 2 | 4 | 3.5 | 5 | 5 | 5
+Build configuration | 4.5 | 4 | 4 | 3.5 | 4 | 3
+Project grouping | 2.5 | 1.5 | 1.5 | 5 | 5 | 3
+Ruby applications support | 5 | 5 | 5 | 4.5 | 5 | 4 
+iOS applications support | \- | \- | \- | 4.5 | 5 | 4
+Smart notifications | 2 | 5 | 3 | 5 | 5 | 3
+Test results output | 3 | 3 | 4 | 4 | 5 | 3.5 
+User management | \- | \- | \- | 4.5 | 4.5 | 3.5
 
 There’s no easy answer for the question which CI server solution to choose. In the software as a service group my favourite is [Travis](#travis). I really like the idea of keeping build configuration with the source code. In the installable group [TeamCity](#team-city) looks very good. Mainly because of smart test running and very detailed test output. Also good support for the kind of project we develop is significant. And there’s a hybrid [Bamboo](#bamboo) if you cannot decide whether to use installable software or not.
