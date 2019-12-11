@@ -7,7 +7,10 @@ Im Blogeintrag [„Personalvermittler“](http://blog.simplificator.com/2015/04/
 
 Danke, dass Pascal mir, aus Sicht eines Personalvermittlers, die Chance gibt auf seinen Post zu antworten und allenfalls ein anderes Licht auf Personalvermittler zu werfen.
 
-\[caption id="attachment\_424" align="alignnone" width="300"\]![Source: findaphoto.com](images/finda_photo011.jpg?w=300) Source: findaphoto.com\[/caption\]
+<figure>
+  <img src="/images/finda_photo011.jpg" alt="">
+  <figcaption>Source: findaphoto.com</figcaption>
+</figure>
 
 ## Der Vermittlermarkt ist riesig und hart umkämpft
 
@@ -33,7 +36,10 @@ Vermittler, welche sich nicht an den Datenschutz halten und Personaldossiers ohn
 
 Sollten sich Vermittlungsagenturen nicht an diese Regeln halten, drohen der Entzug der Bewilligung, sowie eine hohe Busse. Zusätzlich verlieren diese Vermittler ihre Reputation (wenn sie jemals eine hatten). Aber eben – in der Not werden auch solche Mittel angewandt.
 
-\[caption id="attachment\_422" align="alignleft" width="300"\]![Source: SplitShire.com](images/splitshire-5104.jpg?w=300) Source: SplitShire.com\[/caption\]
+<figure>
+  <img src="/images/splitshire-5104.jpg" alt="">
+  <figcaption>Source: SplitShire.com</figcaption>
+</figure>
 
 ## Gesetzliche Hürden zu tief
 

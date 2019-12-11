@@ -21,8 +21,10 @@ As a warm-up, I worked on my own little Ruby on Rails project and programmed a s
 
 I also got to do some frontend engineering on Simplificators own website.
 
-\[caption id="" align="alignnone" width="601"\]![](/images/null.png) My to do list built wiht Ruby on Rails\[/caption\]
-
+<figure>
+  <img src="/images/null.png" alt="To do list application">
+  <figcaption>My to do list built with Ruby on Rails</figcaption>
+</figure>
  
 
 The next (big) step was building a productive tool for Simplificator. “Burn Rate” is crucial in planning our work on the different projects we work on. Thanks to the custom calculation formula, the software indicates how much time we have to work the next four weeks on the various projects to fulfill the requirements.
@@ -47,4 +49,7 @@ As the end of my internship approached the question arose “[Should I stay or s
 
 Was it worth going back to square one at 34 years of age? Yes, it was! Was it easy? Not at all. **But aren’t the difficult things the most rewarding?**
 
-\[caption id="attachment\_1253" align="alignnone" width="1008"\]![fussball](/images/fussball1.jpg) Enjoying a break with my colleagues\[/caption\]
+<figure>
+  <img src="/images/fussball1.jpg" alt="Fussball">
+  <figcaption>Enjoying a break with my colleagues</figcaption>
+</figure>
