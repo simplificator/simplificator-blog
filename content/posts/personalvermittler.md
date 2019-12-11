@@ -3,7 +3,9 @@ title: "Personalvermittler"
 date: 2015-04-30
 ---
 
-![iPhone_no_caller_ID_640](https://simplificators.files.wordpress.com/2015/01/iphone_no_caller_id_640.jpg?w=169)Wir sind regelmässig auf der Suche nach neuen Mitarbeitern. Genau so regelmässig werden wir von Vermittlern kontaktiert.
+![iPhone no caller ID](images/iphone_no_caller_id_640.jpg?w=169)
+
+Wir sind regelmässig auf der Suche nach neuen Mitarbeitern. Genau so regelmässig werden wir von Vermittlern kontaktiert.
 
 Per Telefon und Mail erhalten wir immer wieder CVs der tollsten und besten Entwickler angeboten. Auf den freundlichen Hinweis, dass wir **nicht mit Personalvermittlern** zusammenarbeiten wird meist leicht verwirrt mit "Aber warum denn nicht?" geantwortet. Schliesslich ist der Vermittler professionell und vermittelt ausschliesslich im IT-Bereich Personal. Ja die anderen Vermittler, das kann er ja noch verstehen, die sind ja eher rückständig und haben sowieso nur faule Eier im Angebot. Aber er selbst... nur Mitarbeiter welche menschlich und fachlich sowas von zu uns passen...
 

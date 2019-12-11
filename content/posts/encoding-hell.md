@@ -9,7 +9,7 @@ Why can't we all live with ASCII. Surely 8 bit ought to be enough for everyone;-
 
 So this is the first post on my encoding hell. I plan to follow up with more posts on this topic.
 
-![Bildschirmfoto 2014-12-27 um 13.21.28](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-21-28.png?w=300)
+![Encoding::UndefinedConversionError](images/bildschirmfoto-2014-12-27-um-13-21-28.png?w=300)
 
 **The situation**
 
@@ -23,7 +23,7 @@ ISO 8859-1 (ISO/IEC 8859-1) actually only specifies the printable characters, IS
 
 While in most programming languages it is easy to change the encoding of a string this sometimes includes more troubles than visible at first sight. Those encodings can contain from 256 to more than 1'000'000 code points. In other words: UTF-8 is a superset of CP-1252 and ISO 8859-1. Going from those 8 bit encodings to a (variable length) 4 byte encoding is always possible while for the other way it depends on the content. If an UTF-8 String contains characters which can not be encoded in 8 bit then you have a problem. Say hi to your new best friend the _Encoding::UndefinedConversionError_ (or whatever your programming language of choice throws at you in such cases).
 
-![Bildschirmfoto 2014-12-27 um 13.17.43](http://simplificators.files.wordpress.com/2014/12/bildschirmfoto-2014-12-27-um-13-17-43.png?w=300)
+![Unicode symbols](images/bildschirmfoto-2014-12-27-um-13-17-43.png?w=300)
 
 **The solutions**
 
