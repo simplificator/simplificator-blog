@@ -1,0 +1,14 @@
+---
+layout: layouts/default
+---
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+  <div>
+    {{ content }}
+  </div>
+  <footer>
+    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%e %B %Y" }}</time>
+  </footer>
+</article>
