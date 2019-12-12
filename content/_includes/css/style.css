@@ -7,3 +7,9 @@ img {
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
+
+body {
+  max-width: 42rem;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
