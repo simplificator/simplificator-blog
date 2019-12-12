@@ -1,6 +1,7 @@
 ---
 title: "Rails Girls Basel 2013"
 date: 2013-04-06
+language: de
 ---
 
 RailsGirls Basel geht los….viel Spass und Erfolg.

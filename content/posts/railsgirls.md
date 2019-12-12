@@ -1,6 +1,7 @@
 ---
 title: "Railsgirls"
 date: 2012-11-14
+language: de
 ---
 
 Endlich ein paar Worte über den [Rails Girls Zürich](http://railsgirls.ch)–Event am 3. und 4. November 2012. Wir konnten den Event als Sponsoren unterstützen. 

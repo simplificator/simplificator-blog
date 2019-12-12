@@ -1,6 +1,7 @@
 ---
 title: "Learning to Code at Simplificator"
 date: 2016-10-31
+language: en
 ---
 
 When I finished my Master in Economics in September 2014, I didn't want to take on some random office job where I do the same every day. I wanted a job where I have to learn something every day and where I have to keep up to date with what I do. I then decided to take on a 50% accounting job, in order to make a living, and meanwhile, I decided to learn programming. I started with online tutorials and practised on my own. However, I soon realised that, at some point, I didn't get any further. I had a basic knowledge about data structures and control structures, but I had no idea where I would have to use them in a real project.

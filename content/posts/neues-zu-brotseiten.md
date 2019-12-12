@@ -1,6 +1,7 @@
 ---
 title: "Neues zu Brotseiten"
 date: 2013-12-23
+language: de
 ---
 
 Die Brotseiten iOS App ist im App Store [verfügbar](https://itunes.apple.com/ch/app/id726147749) und natürlich auch auf unserer Seite [dokumentiert](http://www.simplificator.com/de/projects/35-ios-app-fur-kurzgeschichten).

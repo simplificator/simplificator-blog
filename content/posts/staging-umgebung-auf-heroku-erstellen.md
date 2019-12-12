@@ -1,6 +1,7 @@
 ---
 title: "Staging Umgebung auf Heroku erstellen"
 date: 2014-01-06
+language: de
 ---
 
 Für einige Kunden verwenden wir das Rails Hosting von [heroku](http://heroku.com). Es bietet sich dann an, auch die staging Umgebung auf heroku zu betreiben damit keine wesentlichen Unterschiede zur produktions Umgebung bestehen.

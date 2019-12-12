@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with Hanami and GraphQL"
 date: 2016-12-07
+language: en
 ---
 
 ## What is GraphQL?

@@ -1,6 +1,7 @@
 ---
 title: "Pilotprojekt zwischen der HNO Klinik und Evita"
 date: 2013-05-06
+language: de
 ---
 
 Das Pilotprojekt der HNO-Abteilung des Luzerner Kantonsspitals mit Evita, einem kostenlosen Service von Swisscom, bietet Patienten die Möglichkeit, auf ihre persönlichen Spitaldokumente aus der HNO sicher und jederzeit über das Internet zuzugreifen.

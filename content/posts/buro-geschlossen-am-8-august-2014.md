@@ -1,6 +1,7 @@
 ---
 title: "Büro geschlossen am 8. August 2014"
 date: 2014-07-15
+language: de
 ---
 
 Wir ziehen um! 

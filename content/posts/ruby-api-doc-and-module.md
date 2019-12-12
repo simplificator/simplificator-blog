@@ -1,6 +1,7 @@
 ---
 title: "Ruby API doc and Module"
 date: 2015-04-24
+language: en
 ---
 
 The Ruby [API doc](http://ruby-doc.org/core-2.2.2) is a great source for information about my programming language of choice. Even after years of writing Ruby code i learn new tricks and features. Lately I've been looking into the [Module](http://ruby-doc.org/core-2.2.2/Module.html) class in more detail.

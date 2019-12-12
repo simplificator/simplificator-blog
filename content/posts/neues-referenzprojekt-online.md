@@ -1,6 +1,7 @@
 ---
 title: "Neues Referenzprojekt online"
 date: 2014-09-17
+language: de
 ---
 
 local.ch bietet national Dienste im Bereich der Suche und Auffindbarkeit von Firmen und Restaurants im Web an. Neben Einträgen unter [www.local.ch](http://www.local.ch/) erstellt local.ch auch Webseiten für lokale KMUs wie zum Beispiel Restaurants und Coiffeure.

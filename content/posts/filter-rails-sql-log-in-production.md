@@ -1,6 +1,7 @@
 ---
 title: Filter Rails SQL log in production
 date: 2015-02-02
+language: en
 ---
 
 In order to debug a problem, which only occurred in production, we recently wanted to tweak our Rails SQL logs to only show the access to a specific table.

@@ -1,6 +1,7 @@
 ---
 title: "Altes UNIX-Wissen"
 date: 2012-06-25
+language: de
 ---
 
 Ein ganz alter Blog Post wurde letzthin plötzlich wieder relevant - aber er war nirgends mehr online.

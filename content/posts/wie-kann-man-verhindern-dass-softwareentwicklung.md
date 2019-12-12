@@ -1,6 +1,7 @@
 ---
 title: "Wie kann man verhindern, dass Softwareentwicklung ins Stocken kommt?"
 date: 2013-05-24
+language: de
 ---
 
 Eine typische Situation nach den ersten Erfolgen mit einer Applikation: **Das Team ist langsam,** wehrt sich gegen Anforderungen. Neue Funktionen sind schwierig umzusetzen, und die Testphasen werden länger. Die Software-**Entwicklung wird immer schwieriger**.

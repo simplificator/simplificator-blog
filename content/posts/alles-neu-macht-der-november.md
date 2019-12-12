@@ -1,6 +1,7 @@
 ---
 title: "Alles neu macht der November"
 date: 2013-11-21
+language: de
 ---
 
 Unsere Webseite verwenden wir immer mal wieder um Technologien etwas genauer zu evaluieren. Aus einem grösseren Projekt kann man mehr Erfahrungen ziehen als aus einem einfachen “Hello World”. Oft trifft man im laufe eines Projektes auf ein grösseres Hindernis und erst dann zeigt sich ob die richtige Technologie gewählt wurde. Einfach genug für den Normalfall, mächtig genug für spezielle Features.

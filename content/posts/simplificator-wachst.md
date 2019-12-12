@@ -1,6 +1,7 @@
 ---
 title: "Simplificator wächst"
 date: 2013-04-03
+language: de
 ---
 
 Mehr Kunden und mehr Projekte bedeutet auch mehr Arbeit. Und darum wird Simplificator im Juni gleich zwei neue Mitarbeiter begrüssen dürfen. Wir freuen uns auf die spannende Zeit.

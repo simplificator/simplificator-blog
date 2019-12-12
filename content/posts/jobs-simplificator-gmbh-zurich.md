@@ -1,6 +1,7 @@
 ---
 title: "Jobs @ Simplificator GmbH, Zürich"
 date: 2012-10-17
+language: de
 ---
 
 Wir suchen wieder Webapplikations-Entwickler in Zürich.

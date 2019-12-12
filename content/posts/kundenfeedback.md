@@ -1,6 +1,7 @@
 ---
 title: "Kundenfeedback"
 date: 2014-09-30
+language: de
 ---
 
 Solches [Feedback](http://www.simplificator.com/de/projects/16-online-gesundheitsdossier-evita) von Kunden freut uns natürlich:

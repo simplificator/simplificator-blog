@@ -1,6 +1,7 @@
 ---
 title: "“Sitincator” - Simplificator’s Meeting Room Display"
 date: 2017-01-12
+language: en
 ---
 
 ![Sitincator displays in front of meeting rooms](/images/image03.png)

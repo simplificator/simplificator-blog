@@ -1,6 +1,7 @@
 ---
 title: "Simplification Conference"
 date: 2015-09-18
+language: de
 ---
 
 ![](/images/simplification-conference-2015.png)

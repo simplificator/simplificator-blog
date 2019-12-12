@@ -1,6 +1,7 @@
 ---
 title: "Wenigstens ein paar der neuen Poster hängen schonmal"
 date: 2013-04-26
+language: de
 ---
 
 ![](images/tumblr_mluqwnkmtf1s5gaabo1_1280.jpg)

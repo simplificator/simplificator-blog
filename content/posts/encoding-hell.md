@@ -1,6 +1,7 @@
 ---
 title: "éncöding hèll (part 1)"
 date: 2015-01-07
+language: en
 ---
 
 If you ended up reading this, then you know what i am talking about. It's this garbled up text. That umlaut which got lost. Those diacritical marks that don't show up. And then first you blame the accent-grave-french, the umlaut-germans, the diacritic-czechs and so on (not even mentioning chinese/japanese/...languages) .

@@ -1,6 +1,7 @@
 ---
 title: "éncoding hèll (part 2)"
 date: 2015-01-10
+language: en
 ---
 
 How does Ruby deal with encoding? Here are some important parts.

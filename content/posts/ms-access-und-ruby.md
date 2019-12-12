@@ -1,6 +1,7 @@
 ---
 title: "MS Access und Ruby?"
 date: 2014-02-24
+language: de
 ---
 
 Auch das geht.

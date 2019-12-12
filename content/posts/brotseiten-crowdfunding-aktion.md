@@ -1,6 +1,7 @@
 ---
 title: "Brotseiten Crowdfunding Aktion"
 date: 2014-10-31
+language: de
 ---
 
 [brotseiten.ch](http://www.brotseiten.com/) hat eine [Crowdfunding Aktion](http://www.100-days.net/de/projekt/brotseiten) auf 100 days gestartet. Bei Brotseiten gibt es spannende Kurzgeschichten zum lesen und hören via App. 

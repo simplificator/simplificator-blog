@@ -1,6 +1,7 @@
 ---
 title: "Rails Girls Helsinki"
 date: 2015-05-27
+language: en
 ---
 
 Two Simplificators, Marion and Ferdinand, have been to [Rails Girls in Helsinki](http://railsgirls.com/helsinki) as coaches. Here is a short travel report.

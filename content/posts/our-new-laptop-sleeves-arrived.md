@@ -1,6 +1,7 @@
 ---
 title: "Our new laptop sleeves arrived"
 date: 2015-03-09
+language: en
 ---
 
 ![Simplificator laptop sleeves](images/b_phppkxaaees3_.jpg)

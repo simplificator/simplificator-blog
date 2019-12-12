@@ -1,6 +1,7 @@
 ---
 title: "Handling errors in Ruby on Rails"
 date: 2015-03-13
+language: en
 ---
 
 Rails offers multiple ways to deal with exceptions and depending on what you want to achieve you can pick either of those solutions. Let me walk you through the possibilities.

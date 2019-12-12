@@ -1,6 +1,7 @@
 ---
 title: "EuRuKo Sofia 2016: My first Ruby Conference"
 date: 2016-10-24
+language: en
 ---
 
 I was really excited to go to EuRuKo 2016, because it was the first time for me to attend an event such as this. The conference was on Friday and on Saturday, and we arrived on Thursday morning to discover Sofia. As it turned out, the city is quite small, so a few hours were enough to do so. We then ran into some other Swiss guys who attended the conference (Pascal among them) and when they were talking about past conferences, I really couldn't wait anymore for the next day.

@@ -1,6 +1,7 @@
 ---
 title: "Finding column names using DBI"
 date: 2014-03-31
+language: en
 ---
 
 A useful snippet, should you ever require to get the column names of a table that you are connecting through DBI:
