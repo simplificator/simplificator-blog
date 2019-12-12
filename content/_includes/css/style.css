@@ -6,6 +6,7 @@ img {
 
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 20px;
   line-height: 1.5;
   background-color: #fff;
   color: #103A4A;
@@ -17,13 +18,18 @@ body {
   margin: 0 auto;
 }
 
-a, a:visited {
-  color: #288DB3;
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  margin-top: 1.25em;
 }
 
 h2 a, h2 a:visited {
   color: #103A4A;
   text-decoration: none;
+}
+
+a, a:visited {
+  color: #288DB3;
 }
 
 h2 a:active, h2 a:focus {
@@ -34,7 +40,23 @@ h2 a:active, h2 a:focus {
   margin-top: 6rem;
 }
 
+p {
+  text-align: justify;
+}
 
+pre {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #888888;
+}
 /**
  * GHColors theme by Avi Aryan (http://aviaryan.in)
  * Inspired by Github syntax coloring
