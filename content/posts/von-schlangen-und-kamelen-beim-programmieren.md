@@ -25,11 +25,15 @@ Ein Beispiel:
 
 **HTML**:
 
-_<div class=”node-1234”>Ein Element</div>_
+```html
+<div class=”node-1234”>Ein Element</div>
+```
 
 **Javascript:**
 
-_$(“.node\_1234”).hide()_
+```javascript
+$(“.node\_1234”).hide()
+```
 
 Dies sieht auf den ersten Blick korrekt aus, aber später wird man feststellen, dass der Javascript Code nicht das macht was man erwartet.
 
