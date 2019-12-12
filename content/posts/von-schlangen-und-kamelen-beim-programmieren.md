@@ -2,6 +2,7 @@
 title: "Von Schlangen und Kamelen beim Programmieren"
 date: 2013-08-22
 language: de
+author: Simplificator
 ---
 
 Verschiedene Programmiersprachen, verschiedene Konventionen für die Namen von Klassen, Methoden, Variablen. 

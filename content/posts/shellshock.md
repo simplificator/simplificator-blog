@@ -2,6 +2,7 @@
 title: "Shellshock"
 date: 2014-09-25
 language: en
+author: Simplificator
 ---
 
 After the [heartbleed](http://heartbleed.com/) security bug a new vulnerability made it to mainstream news: [shellshock](http://www.cnet.com/news/bigger-than-heartbleed-bash-bug-could-leave-it-systems-shellshocked/).

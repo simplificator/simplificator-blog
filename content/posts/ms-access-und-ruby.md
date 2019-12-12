@@ -2,6 +2,7 @@
 title: "MS Access und Ruby?"
 date: 2014-02-24
 language: de
+author: Simplificator
 ---
 
 Auch das geht.

@@ -2,6 +2,7 @@
 title: "Being a Software Developer Intern @Simplificator"
 date: 2018-01-15
 language: en
+author: Chanel Greco
 ---
 
 As I’m writing this blog post, I’m ending my 6-month internship at Simplificator as a software developer. A month ago I turned 34. Yes, you read correctly, at an age where most employees are looking to boost their careers, I decided to go back to square one and learn how to code. But why did I choose to do so?

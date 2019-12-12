@@ -2,6 +2,7 @@
 title: Interesting read on "the web app myth"
 date: 2015-02-12
 language: en
+author: Simplificator
 ---
 
 From an article written by Christian Heilman on the "[Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)".

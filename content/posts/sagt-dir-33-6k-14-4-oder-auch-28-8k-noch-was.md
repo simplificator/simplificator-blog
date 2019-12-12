@@ -2,6 +2,7 @@
 title: "Geo Theme für Bootstrap"
 date: 2013-04-04
 language: de
+author: Simplificator
 ---
 
 ![](images/tumblr_mkqvkufjjj1s5gaabo1_1280.png "Geo for Bootstrap")

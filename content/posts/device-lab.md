@@ -2,6 +2,7 @@
 title: "Device Lab"
 date: 2013-01-01
 language: de
+author: Simplificator
 ---
 
 Wir überlegen uns ein Device Lab aufzubauen - also eine Möglichkeit, mobile Applikationen auf verschiedenen alten und neuen Geräten testen zu können. Ich denke an ein Setup wo wir verschiedene Devices in Schachteln haben, mit entsprechenden Kabeln und allenfalls Anleitungen zum Betrieb, ein paar SIM-Karten, WLAN-Konfiguration.

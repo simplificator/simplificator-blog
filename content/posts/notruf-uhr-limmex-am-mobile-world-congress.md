@@ -2,6 +2,7 @@
 title: "Notruf-Uhr Limmex am Mobile World Congress ausgezeichnet"
 date: 2013-02-27
 language: de
+author: Simplificator
 ---
 
 Unsere Kundin Limmex hat den Hauptpreis “Innovator of the Year” auf der weltgrössten Messe der Mobilfunkindustrie gewonnen. Wir sind sehr stolz auf ihren Erfolg und dass wir dabei mithelfen konnten.

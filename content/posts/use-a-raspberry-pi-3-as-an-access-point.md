@@ -2,6 +2,7 @@
 title: "Use a Raspberry Pi 3 as an access point"
 date: 2017-04-28
 language: en
+author: Mario Schüttel
 ---
 
 ![raspberry-pi-logo](/images/raspberry-pi-logo.png)

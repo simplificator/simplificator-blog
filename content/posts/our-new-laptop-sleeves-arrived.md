@@ -2,6 +2,7 @@
 title: "Our new laptop sleeves arrived"
 date: 2015-03-09
 language: en
+author: Pascal Betz
 ---
 
 ![Simplificator laptop sleeves](images/b_phppkxaaees3_.jpg)

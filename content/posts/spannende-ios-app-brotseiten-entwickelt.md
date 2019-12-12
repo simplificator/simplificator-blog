@@ -2,6 +2,7 @@
 title: Spannende iOS App "BROTSEITEN" entwickelt
 date: 2013-12-19
 language: de
+author: Simplificator
 ---
 
 Sollte man sich unbedingt mal anschauen: Die neue iOS App “BROTSEITEN” Die clevere Alternative zu den Pendlerzeitungen. Ausgewählte Geschichten für dein Smartphone & Tablet. In der perfekten Länge für unterwegs.  Zum Lesen und Hören. Programmiert von … Simplificator!

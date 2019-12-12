@@ -2,6 +2,7 @@
 title: "Rake Tasks With Parameters"
 date: 2015-04-09
 language: en
+author: Thomas Ritter
 ---
 
 Rake tasks are a convenient method to automate repeating tasks and also make them available via the command line. Oftentimes these tasks can be executed without any user input. Think of a built-in task like "db:migrate" -- it does not take any arguments. There's other tasks that in fact take arguments. Usually, they work like this: `rake the_namespace:the_task[arg1,arg2]`.

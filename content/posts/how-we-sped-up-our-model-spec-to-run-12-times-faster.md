@@ -2,6 +2,7 @@
 title: How we sped up our model spec to run 12 times faster
 date: 2015-02-19
 language: en
+author: Thomas Ritter
 ---
 
 We are using [cancancan](https://github.com/CanCanCommunity/cancancan) as an authorization gem for one of our applications. To make sure that our authorization rules are correct, we unit-tested the `Ability` object. In the beginning, the test was quite fast, but the more rules we added, the longer it took to run the whole model test. When we analyzed what was slowing down our test, we saw that quite some time is actually used persisting our models to the database with [factory\_girl](https://github.com/thoughtbot/factory_girl) as part of the test setup. It took a bit more than 60 seconds to run the whole ability spec, which is far too much for a model test.

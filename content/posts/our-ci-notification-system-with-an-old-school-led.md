@@ -2,6 +2,7 @@
 title: "Our CI notification system with an old school LED board"
 date: 2013-03-14
 language: en
+author: Simplificator
 ---
 
 ![](images/tumblr_mjnpjmwy4v1s5gaabo1_1280.jpg "LED board")

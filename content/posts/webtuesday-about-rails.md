@@ -2,6 +2,7 @@
 title: "Webtuesday about Rails"
 date: 2013-02-12
 language: en
+author: Simplificator
 ---
 
 Our customer [local.ch](http://local.ch) is hosting a Webtuesday tonight at 19:30, where Jeremy talks about the experience of introducing Ruby on Rails, an effort Simplificator was able to support in several projects. Location: the local.ch office at Konradstrasse 12, 8005 Zürich. More info [here](http://webtuesday.ch/meetings/20130212/) - the gist of it below.

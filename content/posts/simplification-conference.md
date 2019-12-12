@@ -2,6 +2,7 @@
 title: "Simplification Conference"
 date: 2015-09-18
 language: de
+author: Pascal Betz
 ---
 
 ![](/images/simplification-conference-2015.png)

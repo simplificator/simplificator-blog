@@ -2,6 +2,7 @@
 title: How to kill processes on Windows using Ruby
 date: 2016-01-18
 language: en
+author: Lucian Cancescu
 ---
 
 In order to terminate a process in Ruby you can use the kill method in the of the Process class in the following way:

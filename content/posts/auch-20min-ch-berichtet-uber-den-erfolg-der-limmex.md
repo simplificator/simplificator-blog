@@ -2,6 +2,7 @@
 title: "Limmex in 20min"
 date: 2013-02-28
 language: de
+author: Simplificator
 ---
 
 ![](/images/tumblr_mixyuhsdgd1s5gaabo1_1280.png)

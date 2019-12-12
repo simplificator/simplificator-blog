@@ -2,6 +2,7 @@
 title: "Willkommen Sabine und Fabian"
 date: 2013-06-15
 language: de
+author: Simplificator
 ---
 
 Anfang Juni ist das Simplificator Team gleich um zwei Mitarbeiter gewachsen. 

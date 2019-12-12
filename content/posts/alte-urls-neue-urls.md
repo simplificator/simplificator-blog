@@ -2,6 +2,7 @@
 title: "Alte URLs, neue URLs"
 date: 2013-11-27
 language: de
+author: Simplificator
 ---
 
 Neues CMS neue URLs und nichts mehr auffindbar?

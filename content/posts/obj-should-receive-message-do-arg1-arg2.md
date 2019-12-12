@@ -2,6 +2,7 @@
 title: "Rspec expectations with a block"
 date: 2013-03-15
 language: en
+author: Simplificator
 ---
 
 ```ruby

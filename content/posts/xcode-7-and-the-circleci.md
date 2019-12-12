@@ -2,6 +2,7 @@
 title: "Xcode 7 and the CircleCI"
 date: 2015-10-20
 language: en
+author: Lucian Cancescu
 ---
 
 We're using CircleCI for one of our iOS projects and recently we migrated to Xcode 7. However, since the migration we noticed that the builds on CircleCI started to fail. Even worse, all tests were passing locally in Xcode.

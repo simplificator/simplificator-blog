@@ -2,6 +2,7 @@
 title: "Manta Reisen"
 date: 2012-07-16
 language: de
+author: Simplificator
 ---
 
 Ein neues Projekt ist online: [Hochzeitsreise Webseite für Manta Reisen](https://hochzeitsreise.manta.ch/).

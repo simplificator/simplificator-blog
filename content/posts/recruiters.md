@@ -2,6 +2,7 @@
 title: "Recruiters"
 date: 2013-02-05
 language: de
+author: Simplificator
 ---
 
 Und ein weiteres mal darf ich mich über Recruiters aufregen…ein weiteres mal über JPeople aus England.

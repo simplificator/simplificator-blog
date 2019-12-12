@@ -2,6 +2,7 @@
 title: "Vaults with Ansible"
 date: 2017-03-30
 language: en
+author: Mario Schüttel
 ---
 
 When it comes to software versioning, you normally do not want to upload passwords or secrets into shared repositories. Too many people might have access to the code, and it's irresponsible to have secrets there without protection.

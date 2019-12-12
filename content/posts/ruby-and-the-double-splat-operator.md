@@ -2,6 +2,7 @@
 title: "Ruby and the double splat operator"
 date: 2015-03-20
 language: en
+author: Pascal Betz
 ---
 
 If you have been programming ruby for a while then you have seen the splat operator. It can be used to define methods that accept a variable length argument list like so:

@@ -2,6 +2,7 @@
 title: "Bootstrap und CSS Validation"
 date: 2013-11-25
 language: en
+author: Simplificator
 ---
 
 _Generally speaking, we don’t worry about W3C validation._

@@ -2,6 +2,7 @@
 title: "An informal intro to agile"
 date: 2012-10-18
 language: en
+author: Simplificator
 ---
 
 This is based on an email to an interested friend, and I thought it might have some value to others.

@@ -2,6 +2,7 @@
 title: "Wir suchen einen Software Entwickler"
 date: 2013-03-14
 language: de
+author: Simplificator
 ---
 
 Und wenn wir den gefunden haben, dann suchen wir gleich noch einen, denn wir wollen unser Team kräftig vergrössern.

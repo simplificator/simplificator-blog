@@ -2,6 +2,7 @@
 title: Feature testing mobile variants
 date: 2015-12-18
 language: en
+author: Thomas Ritter
 ---
 
 For a project, we wanted to write a feature spec for the [mobile variant](http://guides.rubyonrails.org/4_1_release_notes.html#action-pack-variants) of the site. Instinctively, the first thing I did was google. I found nothing. The next thing I did was think. I came up with this, which worked:

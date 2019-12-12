@@ -2,6 +2,7 @@
 title: "Values"
 date: 2015-03-02
 language: en
+author: Pascal Betz
 ---
 
 It's always great to visit a customer and see the magnets with our five values in their offices:
