@@ -1,10 +1,11 @@
 ---
 title: "Insights from Finance 2.0"
 date: 2018-03-23
-coverImage: "badge_2.jpg"
 language: en
 author: Chanel Greco
 ---
+
+![Conference badge](/images/badge_2.jpg)
 
 This week I had the pleasure of attending [Finance 2.0](https://www.finance20.ch/conference2018/), which is the leading FinTech conference in Switzerland. In this post, I’ll be sharing the content of the conference from a software developer point of view.
 
