@@ -21,6 +21,15 @@ a, a:visited {
   color: #288DB3;
 }
 
+h2 a, h2 a:visited {
+  color: #103A4A;
+  text-decoration: none;
+}
+
+h2 a:active, h2 a:focus {
+  color: #288DB3;
+}
+
 .post {
   margin-top: 6rem;
 }
