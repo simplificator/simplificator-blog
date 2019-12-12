@@ -1,5 +1,6 @@
 const CleanCSS = require("clean-css")
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
+const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 
 module.exports = (config) => {
   config.addPassthroughCopy("content/images")
@@ -10,6 +11,7 @@ module.exports = (config) => {
   })
 
   config.addPlugin(syntaxHighlight)
+  config.addPlugin(lazyImagesPlugin)
 
   return {
     dir: {
