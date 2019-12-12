@@ -5,7 +5,7 @@ language: de
 author: Pascal Betz
 ---
 
-![iPhone no caller ID](images/iphone_no_caller_id_640.jpg?w=169)
+![iPhone no caller ID](/images/iphone_no_caller_id_640.jpg?w=169)
 
 Wir sind regelmässig auf der Suche nach neuen Mitarbeitern. Genau so regelmässig werden wir von Vermittlern kontaktiert.
 

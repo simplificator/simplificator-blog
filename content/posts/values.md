@@ -13,8 +13,8 @@ It's always great to visit a customer and see the magnets with our five values i
 - keep it simple
 - collaborate closely
 
-![](images/img_1549.jpg)
-![](images/img_1550.jpg)
-![](images/img_1580.jpg)
-![](images/img_1581.jpg)
-![](images/img_1582.jpg)
+![](/images/img_1549.jpg)
+![](/images/img_1550.jpg)
+![](/images/img_1580.jpg)
+![](/images/img_1581.jpg)
+![](/images/img_1582.jpg)

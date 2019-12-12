@@ -9,7 +9,7 @@ author: Lukas Eppler
 
 Let me call it Project X. We were six months behind. Requirements Creep resulted in enormous methods, bloated controllers, a test coverage below the belt and still no clear plan of finishing. We worked a year on the thing, it has been close to finished for months now, but it wasn't coming together. We had a problem.
 
-![Dare to question](images/screen-shot-2015-02-05-at-6-03-28-pm.png)
+![Dare to question](/images/screen-shot-2015-02-05-at-6-03-28-pm.png)
 
 Wasn’t it cool in the old days, **when we were the wizards**, the magicians - where just the fact that we were able to create a simple calculating form or create a script saving someone two days of busywork per week? They trusted us when we said, _it is going to take three weeks to implement it_. If you understood how to “fix a computer” by finding the loose cable connector on the keyboard. When running a defragmentation tool made your uncle feel like he bought a brand new machine.
 
