@@ -1,13 +1,42 @@
 ---
 layout: layouts/default
 title: Simplificator blog
+permalink: '/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber}}/{% endif %}'
+pagination:
+  data: collections.post
+  reverse: true
+  size: 10
+  alias: posts
 ---
 
 <h1>Simplificator blog</h1>
 
-{% for post in collections.post reversed %}
+{% for post in posts %}
 <article class="post">
   <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
   {{ post.templateContent }}
 </article>
 {% endfor %}
+
+
+{% if pagination.pageLinks.length > 1 %}
+<nav class="pagination">
+  {% if pagination.previousPageHref %}
+  <a href="{{ pagination.previousPageHref | url }}" class="pagination__previous">
+    <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1427 301L896 832l531 531q19 19 19 45t-19 45l-166 166q-19 19-45 19t-45-19L429 877q-19-19-19-45t19-45l742-742q19-19 45-19t45 19l166 166q19 19 19 45t-19 45z"/></svg>
+    &nbsp;
+    Newer posts
+  </a>
+  {% else %}
+  <span><!-- for proper alignment of the next page link --></span>
+  {% endif %}
+
+  {% if pagination.nextPageHref %}
+  <a href="{{ pagination.nextPageHref | url }}" class="pagination__next">
+    Older posts
+    &nbsp;
+    <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1363 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45L531 45q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z"/></svg>
+  </a>
+  {% endif %}
+</nav>
+{% endif %}
