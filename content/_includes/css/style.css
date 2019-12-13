@@ -113,6 +113,16 @@ footer {
 
 .post {
   margin-top: 4rem;
+  position: relative;
+}
+
+.post::before {
+  content: '';
+  width: 15%;
+  border-top: 1px var(--simplificator-smoke) solid;
+  display: block;
+  margin: 0 auto;
+  padding-top: 2rem;
 }
 
 .pagination {
