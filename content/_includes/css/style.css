@@ -88,8 +88,8 @@ footer {
  * Inspired by Github syntax coloring
  */
 
-code[class*="language-"],
-pre[class*="language-"] {
+code,
+pre {
   color: #393A34;
   font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   direction: ltr;
@@ -110,22 +110,22 @@ pre[class*="language-"] {
   hyphens: none;
 }
 
-pre > code[class*="language-"] {
+pre > code {
   font-size: 1em;
 }
 
-pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
-code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+pre::-moz-selection, pre ::-moz-selection,
+code::-moz-selection, code ::-moz-selection {
   background: #b3d4fc;
 }
 
-pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
-code[class*="language-"]::selection, code[class*="language-"] ::selection {
+pre::selection, pre ::selection,
+code::selection, code ::selection {
   background: #b3d4fc;
 }
 
 /* Code blocks */
-pre[class*="language-"] {
+pre {
   padding: 1em;
   margin: .5em 0;
   overflow: auto;
@@ -134,7 +134,7 @@ pre[class*="language-"] {
 }
 
 /* Inline code */
-:not(pre) > code[class*="language-"] {
+:not(pre) > code {
   padding: .2em;
   padding-top: 1px; padding-bottom: 1px;
   background: #f8f8f8;
