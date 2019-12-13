@@ -103,6 +103,7 @@ footer {
 
 .intro p {
   margin: 0;
+  margin-top: 8px;
 }
 
 .intro__title {
@@ -111,7 +112,7 @@ footer {
 }
 
 .post {
-  margin-top: 6rem;
+  margin-top: 4rem;
 }
 
 .pagination {
