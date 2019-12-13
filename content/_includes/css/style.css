@@ -1,3 +1,14 @@
+:root {
+  --simplificator-sky: #00adef;
+  --simplificator-blueberry: #454c9b;
+  --simplificator-cherry: #e8336e;
+  --simplificator-honey: #f9b233;
+  --simplificator-lawn: #63b450;
+  --simplificator-smoke: #1d1d1;
+  --simplificator-chimney: #7a7a7a;
+  --simplificator-black: #191919;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -9,7 +20,7 @@ html {
   font-size: 20px;
   line-height: 1.5;
   background-color: #fff;
-  color: #103A4A;
+  color: var(--simplificator-black);
 }
 
 body {
@@ -24,16 +35,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 a, h2 a:visited {
-  color: #103A4A;
+  color: var(--simplificator-blueberry);
   text-decoration: none;
 }
 
 a, a:visited {
-  color: #288DB3;
+  color: var(--simplificator-sky);
 }
 
 h2 a:active, h2 a:focus {
-  color: #288DB3;
+  color: var(--simplificator-sky);
 }
 
 .post {
@@ -51,7 +62,7 @@ footer {
   font-size: 0.75rem;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #888888;
+  color: var(--simplificator-chimney);
 }
 /**
  * GHColors theme by Avi Aryan (http://aviaryan.in)
