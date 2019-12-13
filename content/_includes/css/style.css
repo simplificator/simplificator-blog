@@ -47,8 +47,8 @@ h2 a:active, h2 a:focus {
   color: var(--simplificator-sky);
 }
 
-.post {
-  margin-top: 6rem;
+svg {
+  fill: currentColor;
 }
 
 pre {
@@ -64,6 +64,25 @@ footer {
   text-transform: uppercase;
   color: var(--simplificator-chimney);
 }
+
+.post {
+  margin-top: 6rem;
+}
+
+.pagination {
+  display:flex;
+  justify-content: space-between;
+  margin-top: 6rem;
+  margin-bottom: 4rem;
+}
+
+.pagination__next,
+.pagination__previous {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
 /**
  * GHColors theme by Avi Aryan (http://aviaryan.in)
  * Inspired by Github syntax coloring
