@@ -1,6 +1,6 @@
 ---
 title: "A new, simplified blog"
-date: 2019-12-18
+date: 2020-02-24
 language: en
 author: Lukas Eppler
 ---
