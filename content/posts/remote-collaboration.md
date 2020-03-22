@@ -14,7 +14,7 @@ Um das Wachstum dieser Zahlen zu verlangsamen, hat der Bundesrat verschiedene Ma
 
 Doch wie erreichen wir das trotz Homeoffice bzw. den Einschränkungen durch das Coronavirus?
 
-Unseren gemeinsamen Tag beginnen wir jeden Morgen mit einem virtuellen Standup Meeting via [Zoom](https://zoom.us). Das Ziel ist ein kurzer Austausch über die Aufgaben jedes Mitarbeiters und jeder Mitarbeiterin und ob man auf Projekten zusammenarbeiten kann, um sich gegenseitig zu unterstützen.
+Unseren gemeinsamen Tag beginnen wir jeden Morgen mit einem virtuellen Standup Meeting via <a href="https://zoom.us" target="_blank" >Zoom</a>. Das Ziel ist ein kurzer Austausch über die Aufgaben jedes Mitarbeiters und jeder Mitarbeiterin und ob man auf Projekten zusammenarbeiten kann, um sich gegenseitig zu unterstützen.
 
 
 ![Standup Meeting via Zoom](/images/20200320-zoom-call.jpeg)
@@ -23,7 +23,7 @@ Da auch ein Arbeitstag im Homeoffice nicht um 12 Uhr vorbei ist, treffen wir uns
 
 Regelmässige Videocalls über den Tag verteilt helfen uns, uns in kleineren Teams abzusprechen, Fragen zu stellen und uns auszutauschen sowie etwas zu diskutieren. Auch mit Kunden und Leads stimmen wir uns aktuell über diesen Kanal ab.
 
-All unsere Systeme sind von zu Hause erreichbar und wir sind uns bereits gewohnt ab und an remote zu arbeiten. [Slack](https://slack.com/intl/de-ch/) erweist sich dabei für uns als unerlässliches Tool zur textbasierten Kommunikation untereinander als auch mit unseren Kunden. Unser Grundsatz “Collaborate closely” nimmt noch mehr an Bedeutung zu, damit wir in dieser Zeit die Bedürfnisse unserer Kunden erkennen und auch lösen können. Wir stehen in direktem, regelmässigen Kontakt mit jedem Einzelnen und versuchen dort zu helfen, wo es uns braucht.
+All unsere Systeme sind von zu Hause erreichbar und wir sind uns bereits gewohnt ab und an remote zu arbeiten. <a href="https://slack.com/intl/de-ch/" target="_blank" >Slack</a> erweist sich dabei für uns als unerlässliches Tool zur textbasierten Kommunikation untereinander als auch mit unseren Kunden. Unser Grundsatz “Collaborate closely” nimmt noch mehr an Bedeutung zu, damit wir in dieser Zeit die Bedürfnisse unserer Kunden erkennen und auch lösen können. Wir stehen in direktem, regelmässigen Kontakt mit jedem Einzelnen und versuchen dort zu helfen, wo es uns braucht.
 
 Doch neben all den technischen Möglichkeiten, die uns die Zusammenarbeit erleichtern ist es wichtig, dass man sich zu Hause ein geeignetes Umfeld zum Arbeiten schafft. Ein separater Arbeitsplatz an dem man sich besser auf die Arbeit konzentrieren kann, ist enorm hilfreich. Darüber hinaus hilft ein strukturierter Tagesablauf mit fixen Pausen z.B. für Sport.
 
