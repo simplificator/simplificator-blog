@@ -14,7 +14,7 @@ Um das Wachstum dieser Zahlen zu verlangsamen, hat der Bundesrat verschiedene Ma
 
 Doch wie erreichen wir das trotz Homeoffice bzw. den Einschränkungen durch das Coronavirus?
 
-Unseren gemeinsamen Tag beginnen wir jeden Morgen mit einem virtuellen Standup Meeting via <a href="https://zoom.us" target="_blank" >Zoom</a>. Das Ziel ist ein kurzer Austausch über die Aufgaben jedes Mitarbeiters und jeder Mitarbeiterin und ob man auf Projekten zusammenarbeiten kann, um sich gegenseitig zu unterstützen.
+Unseren gemeinsamen Tag beginnen wir jeden Morgen mit einem virtuellen Standup Meeting via <a href="https://zoom.us" target="_blank" >Zoom</a>. Das Ziel ist ein kurzer Austausch über die Aufgaben jedes Mitarbeiters und jeder Mitarbeiterin und ob man auf Projekten zusammenarbeiten kann, um sich gegenseitig zu unterstützen. In diesem Zusammenhang haben wir auch einen Blick auf <a href="https://www.mocoapp.com/" target="_blank" >Moco</a>, unser Planungs- und Zeiterfassungstool. Die Planungsübersicht zeigt uns übersichtlich welcher Mitarbeiter in den kommenden Tagen auf welchem Projekt arbeitet.  
 
 
 ![Standup Meeting via Zoom](/images/20200320-zoom-call.jpeg)
