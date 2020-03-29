@@ -92,10 +92,6 @@ footer {
   text-decoration: none;
 }
 
-.logo {
-  height: 24px;
-}
-
 .intro {
   margin-top: 4rem;
   color: var(--simplificator-gemstone)
