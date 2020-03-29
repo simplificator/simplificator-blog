@@ -74,6 +74,7 @@ footer {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 
@@ -82,14 +83,22 @@ footer {
   align-items: center;
   font-size: 24px;
   line-height: 24px;
-  color: var(--simplificator-gemstone);
+  margin-top: 0.5rem;
   margin-right: 1rem;
 }
 
 .navigation__item a,
 .navigation__item a:visited {
-  color: var(--simplificator-gemstone);
+  color: var(--simplificator-black);
   text-decoration: none;
+}
+
+.navigation__separator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 12px;
+  color: var(--simplificator-cherry);
 }
 
 .intro {
