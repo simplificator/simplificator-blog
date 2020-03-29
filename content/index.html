@@ -27,7 +27,7 @@ pagination:
 <nav class="pagination">
   {% if pagination.previousPageHref %}
   <a href="{{ pagination.previousPageHref | url }}" class="pagination__previous">
-    <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1427 301L896 832l531 531q19 19 19 45t-19 45l-166 166q-19 19-45 19t-45-19L429 877q-19-19-19-45t19-45l742-742q19-19 45-19t45 19l166 166q19 19 19 45t-19 45z"/></svg>
+    <svg width="32" height="32" fill="currentColor" viewBox="0 0 20 20" class="w-8 h-8"><path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
     &nbsp;
     Newer posts
   </a>
@@ -39,7 +39,7 @@ pagination:
   <a href="{{ pagination.nextPageHref | url }}" class="pagination__next">
     Older posts
     &nbsp;
-    <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1363 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45L531 45q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z"/></svg>
+    <svg width="32" height="32" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
   </a>
   {% endif %}
 </nav>
