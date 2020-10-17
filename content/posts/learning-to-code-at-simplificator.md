@@ -13,9 +13,11 @@ During my internship, Tobias was my team lead and instructor. He taught me abo
 
 This is what the calorie tracker looked like after I implemented the design:
 
-![screen-shot-2016-09-30-at-14-14-50](/images/screen-shot-2016-09-30-at-14-14-50.png)
+{% image "./content/images/screen-shot-2016-09-30-at-14-14-50.png", "calorie tracker screenshot" %}
 
-Later, I wrote unit tests and integration tests, as well as controller tests for the calorie tracker. As a next step, users were introduced, so several people would be able to use the calorie tracker. This was quite tricky for me, because I had never worked with sessions before. But again, I knew this would be important in real projects, too. Next, there should be a date picker, where the user could jump to the requested day.![screen-shot-2016-09-30-at-14-37-20](/images/screen-shot-2016-09-30-at-14-37-20.png)
+Later, I wrote unit tests and integration tests, as well as controller tests for the calorie tracker. As a next step, users were introduced, so several people would be able to use the calorie tracker. This was quite tricky for me, because I had never worked with sessions before. But again, I knew this would be important in real projects, too. Next, there should be a date picker, where the user could jump to the requested day.
+
+{% image "./content/images/screen-shot-2016-09-30-at-14-37-20.png", "date picker" %}
 
 Another requirement was that the user should be able to add a new entry without the page needing to reload every time. This was probably the hardest part, as I had to learn jQuery and the concept of AJAX at the same time. However, it worked out and the user experience was much better than before.
 

@@ -5,7 +5,7 @@ language: de
 author: Pascal Betz
 ---
 
-![](/images/simplification-conference-2015.png)
+{% image "./content/images/simplification-conference-2015.png", "" %}
 
 Zum ersten Mal findet diesen November unsere Simplification Conference statt. Professioneller Input paart sich hier mit den digitalen Ideen der Teilnehmer. Simplificator stellt sein Know-how einen Nachmittag lang kostenlos zur Verfügung für Themen wie Web-Apps, Mobile-Apps, Code Qualität, Rails, UI-/UX-Design, Testing, Integration, Simplification, Usability und Workflow.
 

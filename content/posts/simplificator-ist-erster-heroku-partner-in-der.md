@@ -5,4 +5,4 @@ language: de
 author: Simplificator
 ---
 
-![](/images/tumblr_inline_mk7n1pg5m51qz4rgp.png)
+{% image "./content/images/tumblr_inline_mk7n1pg5m51qz4rgp.png", "" %}

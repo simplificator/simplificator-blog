@@ -5,6 +5,6 @@ language: de
 author: Simplificator
 ---
 
-![](/images/tumblr_mixyuhsdgd1s5gaabo1_1280.png)
+{% image "./content/images/tumblr_mixyuhsdgd1s5gaabo1_1280.png", "" %}
 
 Auch [20min.ch](http://www.20min.ch/digital/news/story/Diese-Schweizer-Uhr-rettet-Leben-25280494) berichtet über den Erfolg der Limmex Notfall-Uhr.

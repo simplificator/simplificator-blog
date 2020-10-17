@@ -17,7 +17,7 @@ Doch wie erreichen wir das trotz Homeoffice bzw. den Einschränkungen durch das 
 Unseren gemeinsamen Tag beginnen wir jeden Morgen mit einem virtuellen Standup Meeting via <a href="https://zoom.us" target="_blank" >Zoom</a>. Das Ziel ist ein kurzer Austausch über die Aufgaben jedes Mitarbeiters und jeder Mitarbeiterin und ob man auf Projekten zusammenarbeiten kann, um sich gegenseitig zu unterstützen. In diesem Zusammenhang haben wir auch einen Blick auf <a href="https://www.mocoapp.com/" target="_blank" >Moco</a>, unser Planungs- und Zeiterfassungstool. Die Planungsübersicht zeigt uns übersichtlich welcher Mitarbeiter in den kommenden Tagen auf welchem Projekt arbeitet.  
 
 
-![Standup Meeting via Zoom](/images/20200320-zoom-call.jpeg)
+{% image "./content/images/20200320-zoom-call.jpeg", "Standup Meeting via Zoom" %}
 
 Da auch ein Arbeitstag im Homeoffice nicht um 12 Uhr vorbei ist, treffen wir uns im Team noch einmal am frühen Nachmittag zu einem virtuellen Coffee-Break. Diese tägliche Kaffeepause gibt Raum für Themen, die nicht zwingend mit der Arbeit zu tun haben und fördern das soziale Miteinander in dieser aussergewöhnlichen Situation.
 
