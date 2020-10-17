@@ -9,6 +9,6 @@ local.ch bietet national Dienste im Bereich der Suche und Auffindbarkeit von Fir
 
 Diese Webseiten können neu über ein Tool zur Verkaufsunterstützung visualisiert werden. 
 
-![](/images/tumblr_inline_nc1tgu4MB41rgk4c8.jpg)
+{% image "./content/images/tumblr_inline_nc1tgu4MB41rgk4c8.jpg", "" %}
 
 Details zum Projekt sind [auf unserer Webseite](http://www.simplificator.com/de/projects/54-salesunterstutzung-mit-visualisierungstool) und in der [Case Study als PDF](http://cdn.simplificator.com/uploads/case_study/file/8/140917_Simplificator-case-study-Local-app.pdf)

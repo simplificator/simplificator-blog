@@ -24,7 +24,7 @@ As a warm-up, I worked on my own little Ruby on Rails project and programmed a s
 I also got to do some frontend engineering on Simplificators own website.
 
 <figure>
-  <img src="/images/null.png" alt="To do list application">
+  {% image "./content/images/null.png", "To do list application" %}
   <figcaption>My to do list built with Ruby on Rails</figcaption>
 </figure>
  
@@ -52,6 +52,6 @@ As the end of my internship approached the question arose “[Should I stay or s
 Was it worth going back to square one at 34 years of age? Yes, it was! Was it easy? Not at all. **But aren’t the difficult things the most rewarding?**
 
 <figure>
-  <img src="/images/fussball1.jpg" alt="Fussball">
+  {% image "./content/images/fussball1.jpg", "Fussball" %}
   <figcaption>Enjoying a break with my colleagues</figcaption>
 </figure>

@@ -10,8 +10,8 @@ Im Blogeintrag [„Personalvermittler“](http://blog.simplificator.com/2015/04/
 Danke, dass Pascal mir, aus Sicht eines Personalvermittlers, die Chance gibt auf seinen Post zu antworten und allenfalls ein anderes Licht auf Personalvermittler zu werfen.
 
 <figure>
-  <img src="/images/finda_photo011.jpg" alt="">
-  <figcaption>Source: findaphoto.com</figcaption>
+  {% image "./content/images/finda_photo011.jpg", "" %}
+  <figcaption>Quelle: findaphoto.com</figcaption>
 </figure>
 
 ## Der Vermittlermarkt ist riesig und hart umkämpft

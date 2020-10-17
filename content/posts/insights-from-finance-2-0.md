@@ -5,7 +5,7 @@ language: en
 author: Chanel Greco
 ---
 
-![Conference badge](/images/badge_2.jpg)
+{% image "./content/images/badge_2.jpg", "Conference badge" %}
 
 This week I had the pleasure of attending [Finance 2.0](https://www.finance20.ch/conference2018/), which is the leading FinTech conference in Switzerland. In this post, I’ll be sharing the content of the conference from a software developer point of view.
 

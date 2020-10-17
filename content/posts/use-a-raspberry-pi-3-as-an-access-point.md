@@ -5,7 +5,7 @@ language: en
 author: Mario Schüttel
 ---
 
-![raspberry-pi-logo](/images/raspberry-pi-logo.png)
+{% image "./content/images/raspberry-pi-logo.png", "raspberry-pi-logo" %}
 
 Raspberry Pis are awesome \[citation needed\].
 

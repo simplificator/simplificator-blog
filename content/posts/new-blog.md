@@ -16,7 +16,7 @@ with the multilingual part, but had something running. Unfortunately I don't hav
 has no recollection of our CSS, so I won't post screenshots here. It wasn't grand either, but already fairly political
 (I ranted about the SUISA fees, which is now the reason why it is now apparently legal to use torrent software in Switzerland). I found a screenshot of the front page:
 
-![Simplificator Front Page in 2010](/images/new_blog_web2010.png)
+{% image "./content/images/new_blog_web2010.png", "Simplificator Front Page in 2010" %}
 
 But it was also very technical, **we were proud of working with Ruby on Rails**, almost as much as we're proud now of
 working with Elixir and Phoenix.
@@ -31,7 +31,7 @@ Simple is not easy. So our page grew, and it became apparent that we're inflexib
 It wasn't ideal for all this new fancy SEO strategies. We expanded and tweaked. And our own system survived. But
 we found out that we're so far behind that it's hard to catch up. Was it worth it?
 
-![Simplificator Front Page in 2019](/images/new_blog_web2019.png)
+{% image "./content/images/new_blog_web2019.png", "Simplificator Front Page in 2019" %}
 
 We did a redesign, mostly to support mobile, and streamlined everything optically. **But then we stopped:**
 **Our leads come from connections and people who experienced working with us, rarely through google.** We needed to not

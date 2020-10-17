@@ -7,9 +7,11 @@ author: Simplificator
 
 Ist es nicht viel zu teuer in der Schweiz Software zu entwickeln? Sätze in Indonesien, Indien, China oder Polen sind Faktoren tiefer als in der Schweiz. Warum müssen wir denn hier entwickeln? Mit Skype und allem müsste es doch einfach sein, im Ausland zu entwickeln - so kostengünstig dass eventuelle Kostenabweichungen oder Ineffizienzen überwunden werden können. Irgendwas stimmt mit dieser Rechnung offenbar nicht.
 
-![image](/images/tumblr_inline_mm7r5rsKpB1qz4rgp.jpg)
+<figure>
+  {% image "./content/images/tumblr_inline_mm7r5rsKpB1qz4rgp.jpg", "" %}
+  <figcaption>Infosys, Bangalore. Picture from Wikimedia</figcapton>
+</figure>
 
-(Infosys, Bangalore. Picture from Wikimedia)
 
 Es gibt es mehr und mehr Entwicklungen die wieder in der Schweiz gemacht werden. Die Industrie ist gesund, alle Software-Bauer suchen Entwickler, in den verschiedensten Technologien. Offenbar ist es doch nicht so einfach im Ausland zu entwickeln: Wir kennen viele Projekte, die fehlschlugen oder nahezu fehlschlugen, frustrierte Kunden, Entwickler die schlechten Code pflegen und wütend unter Zeitdruck Bugs von anderen fixen müssen, und mit etwas Wohlwollen finden wir vielleicht eine einzelne Referenz von einem gelingenden Projekt. **Warum diese Diskrepanz?** Es müsste doch gehen, es müsste doch günstiger sein, seid ihr Softwareentwickler denn alle nicht interessiert daran?
 
@@ -21,11 +23,11 @@ Pascal Betz und ich haben 2006 zusammen vor der Gründung von Simplificator eini
 
 Genau. Danach können nur noch Anwälte Geld verdienen. Zurück zur Schweiz:
 
-**![image](/images/tumblr_inline_mm7rc0zUMI1qz4rgp.jpg)**
+{% image "./content/images/tumblr_inline_mm7rc0zUMI1qz4rgp.jpg", "" %}
 
 **Wie wäre es,** wenn Softwareentwicklung wieder als Arbeit verstanden werden könnte, nicht als Magie, zu erledigen von abstrakten Ressourcen, die ihre Manntage in Cubicles irgendwo auf der Welt als erledigen, sondern **Menschen mit denen man reden kann**? Die regelmässig mit Papier und Bleistift Annahmen klären, Dinge visualisieren, den Auftraggeber zurück in die kontrollierende Position rücken? Die die Fragen fragen die sie interessieren, expliziter von implizitem Bedarf unterscheiden? Statt Jaja-Sklaven echte Diskussionspartner, die **teure Fehlentscheidungen rechtzeitig hinterfragen**, Rückfragen, keine Angst haben die grossen Entscheidungen anzuzweifeln?
 
-![image](/images/tumblr_inline_mm7rfsumKd1qz4rgp.jpg)
+{% image "./content/images/tumblr_inline_mm7rfsumKd1qz4rgp.jpg", "" %}
 
 Der Ausbildungsstandard in der Schweiz ist hoch. Wir haben ein Qualitätsverständnis, und eine Ehrlichkeit. Wir haben weniger Hierarchiegläubigkeit als andere. Das macht es vielleicht am Anfang des Projektes anstrengender, aber dafür kommt etwas dabei raus. **Als wir das herausgefunden haben, haben wir verstanden dass wir in der Schweiz eine Chance haben mit einer eigenen Firma.**
 
