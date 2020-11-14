@@ -1,7 +1,6 @@
 const CleanCSS = require("clean-css")
 const path = require("path")
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const Image = require('@11ty/eleventy-img')
 
 function extension(filepath) {
@@ -44,8 +43,6 @@ module.exports = (config) => {
           alt="${alt}"
           loading="lazy">`
   });
-
-  config.addPlugin(lazyImagesPlugin)
 
   return {
     dir: {
