@@ -60,21 +60,21 @@ The front matter should have these fields:
 
 ### Images
 
-Images are stored in `content/images/`. Please resize the images to a reasonable size and optimize them with a tool like [ImageOptim](https://imageoptim.com/) or [Guetzli](https://github.com/google/guetzli).
+Images are stored in `content/images/`.
 
-You can include an image in a post using this format (Markdown): `![Alt Text](url)`. The alternative text is mandatory, as we want our content to be accessible to people who are using assistive technologies or who have disabled images. Use a URL relative to the root path. This means it should start with `/images/`.
+Use the `image` [shortcode](https://www.11ty.dev/docs/shortcodes/) (defined in `.eleventy.js`) to insert an image in a post. For example:
 
-Example image:
-
-```markdown
-![Early Sitincator wireframes](/images/sitincator-wireframes.png)
+```liquid
+{% image "./content/images/sitincator-wireframes.png", "Early Sitincator wireframes" %}
 ```
 
-You have to use HTML if you want to include a caption for everyone:
+The first argument is the relative path to the image file from the project root. The second argument is the alternative text that describes the image.
+
+You could additionally include a caption that is displayed below the image:
 
 ```html
 <figure>
-  <img src="/images/first_website.png" alt="Screenshot of the first Simplificator website">
+  {% image "./content/images/first_website.png", "Screenshot of the first Simplificator website" %}
   <figcaption>Our website in 2007</figcaption>
 </figure>
 ```
