@@ -8,6 +8,10 @@ function extension(filepath) {
   return extensionWithDot.substring(extensionWithDot.indexOf(".") + 1)
 }
 
+function normalizedExtension(extension) {
+  return extension == 'jpg' ? 'jpeg' : extension;
+}
+
 module.exports = (config) => {
   config.addPassthroughCopy("content/images")
 
@@ -23,7 +27,7 @@ module.exports = (config) => {
       throw new Error(`Missing \`alt\` on image from: ${src}`);
     }
 
-    const outputFormat = extension(src) || "jpeg"
+    const outputFormat = normalizedExtension(extension(src) || "jpeg")
 
     const stats = await Image(src, {
       widths: [400, 850, 1200],
