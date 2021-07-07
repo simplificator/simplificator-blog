@@ -46,7 +46,6 @@ title: "User story mapping: a retrospective"
 date: 2017-03-30
 language: en
 author: Jane Appleseed
-summary: We have been consistently making user story maps for the last 6 months. This is what we've learned.
 ---
 ```
 
@@ -56,7 +55,6 @@ The front matter should have these fields:
 - `date`: the publication date in `YYYY-MM-DD` format. This is used in the permalink.
 - `language`: `en` or `de`. This is used to tell the browser and search engines which language is used, so that they don't need to guess.
 - `author`: your name :)
-- `summary`: a summary/abstract/teaser of the article. This can be displayed in search results or previews on social media.
 
 ### Images
 
