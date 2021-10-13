@@ -32,6 +32,8 @@ Don't just say "I fit the job description perfectly". Give concrete examples of 
 
 It's tempting to just rephrase the contents of the CV. Instead, try highlighting which skills or specific parts of past jobs relate to this offer.
 
+Counter-intuitively, stating in which ways you don't fit the job description and how you plan to address that can play in your favour as well. Job offers often make it sound like companies are looking for a candidate who fits a certain mold. However, the right hire can also transform their job for the benefit of the entire team. If you're unsure about the strictness of the requirements, get in touch with the company to clarify. A phone call can give you a new perspective.
+
 ## CV
 
 Include experience from areas of work other than the core role for which you are applying. Your expertise will be valuable in a small company which cannot have a specialist in every field. As an example, here are some skills from seemingly unrelated domains that remain relevant at a software agency:
