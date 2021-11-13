@@ -3,6 +3,9 @@ title: A subtle change in PDF output
 date: 2021-07-05
 language: en
 author: Dimiter Petrov
+tags:
+  - testing
+  - docker
 ---
 
 ## The problem

@@ -3,6 +3,8 @@ title: Returning Enumerator unless block_given?
 date: 2015-03-27
 language: en
 author: Pascal Betz
+tags:
+  - ruby
 ---
 
 The [Enumerable](http://ruby-doc.org/core-2.2.1/Enumerable.html) module gives you methods to search, iterate, traverse and sort elements of a collection. All you need to to is to implement `each` and include the mixin.

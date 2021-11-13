@@ -3,6 +3,8 @@ title: "Apéro"
 date: 2013-03-08
 language: de
 author: Simplificator
+tags:
+  - events
 ---
 
 Am 15. März um 17:00 gibt es an der Pfingstweidstrasse 6, im 2. Stock einen Apéro. Wir laden alle Kunden und Freunde ein, also auch dich!

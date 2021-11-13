@@ -3,6 +3,9 @@ title: "Rails Girls Basel 2013"
 date: 2013-04-06
 language: de
 author: Simplificator
+tags:
+  - events
+  - rails
 ---
 
 RailsGirls Basel geht los….viel Spass und Erfolg.

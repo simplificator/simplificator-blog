@@ -3,6 +3,8 @@ title: "Web development explained simply"
 date: 2013-02-27
 language: en
 author: Simplificator
+tags:
+  - software-development
 ---
 
 {% image "./content/images/tumblr_mbv2y4gjow1r0nwmko1_500.png", "" %}

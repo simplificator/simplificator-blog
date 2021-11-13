@@ -3,6 +3,9 @@ title: "Personalvermittler"
 date: 2015-04-30
 language: de
 author: Pascal Betz
+tags:
+  - recruiters
+  - values
 ---
 
 {% image "./content/images/iphone_no_caller_id_640.jpg", "iPhone no caller ID" %}

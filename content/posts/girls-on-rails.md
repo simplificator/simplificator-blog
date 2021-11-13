@@ -3,6 +3,9 @@ title: "Girls on Rails"
 date: 2012-11-18
 language: de
 author: Simplificator
+tags:
+  - events
+  - rails
 ---
 
 Simplificator sponsert den [Rails Girls Zürich](http://railsgirls.ch)\-Event am 3. und 4. November 2012, und der Anmeldeschluss ist heute Freitag!

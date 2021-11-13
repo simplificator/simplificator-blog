@@ -3,6 +3,8 @@ title: Zur Junior Softwareentwicklerin in 5 Schritten
 date: 2021-04-07
 language: de
 author: Tatiana Panferova
+tags:
+  - internship
 ---
 
 Hin und wieder werde ich gefragt, was man beachten muss, wenn man sich Mitte 30 nochmals beruflich neu orientiert. Ganz einfach: Mut fassen und Prioritäten setzen. Klar ist das nicht so einfach, wie es klingt. Klärt man für sich jedoch einige wesentlichen Punkte, wird aus dieser komplexen Entscheidung ein gangbarer Weg sichtbar. Meiner sah so aus:

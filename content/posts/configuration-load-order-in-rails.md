@@ -3,6 +3,10 @@ title: "Configuration load order in Rails"
 date: 2015-01-19
 language: en
 author: Pascal Betz
+tags:
+  - configuration
+  - rails
+  - ruby
 ---
 
 Ever wondered what the load order of the various configuration files of Rails is?

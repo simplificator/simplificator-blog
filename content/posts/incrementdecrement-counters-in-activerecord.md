@@ -3,6 +3,10 @@ title: increment/decrement counters in ActiveRecord
 date: 2015-01-23
 language: en
 author: Pascal Betz
+tags:
+  - database
+  - locking
+  - ruby
 ---
 
 In lots of web apps you need to count something. Availability of products, number of login attempts, visitors on a page and so on.

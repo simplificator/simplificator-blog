@@ -3,6 +3,9 @@ title: "local_time gem"
 date: 2013-12-03
 language: de
 author: Simplificator
+tags:
+  - rails
+  - timezones
 ---
 
 Eine Rails Engine mit helper methoden und Javascript um Timestamps und Dates in lokalen Zeiten darzustellen.

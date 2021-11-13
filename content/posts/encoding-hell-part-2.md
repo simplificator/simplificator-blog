@@ -3,6 +3,9 @@ title: "éncoding hèll (part 2)"
 date: 2015-01-10
 language: en
 author: Pascal Betz
+tags:
+  - encoding
+  - ruby
 ---
 
 How does Ruby deal with encoding? Here are some important parts.

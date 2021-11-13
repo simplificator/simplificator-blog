@@ -3,6 +3,8 @@ title: "Our new laptop sleeves arrived"
 date: 2015-03-09
 language: en
 author: Pascal Betz
+tags:
+  - values
 ---
 
 {% image "./content/images/b_phppkxaaees3_.jpg", "Simplificator laptop sleeves" %}

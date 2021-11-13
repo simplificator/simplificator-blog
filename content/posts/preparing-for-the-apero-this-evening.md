@@ -3,6 +3,8 @@ title: "Apero preparation"
 date: 2013-03-15
 language: en
 author: Simplificator
+tags:
+  - events
 ---
 
 Preparing for the Apero this evening….
