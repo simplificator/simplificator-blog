@@ -15,6 +15,10 @@ function normalizedExtension(extension) {
 module.exports = (config) => {
   config.addPassthroughCopy("content/images")
 
+  config.addCollection("posts", (collectionApi) => {
+    return collectionApi.getFilteredByGlob(["content/posts/*.md"])
+  })
+
   config.addShortcode('embeddedStyle', (path) => {
     let completePath = `content/_includes/${path}`
     return new CleanCSS({}).minify([completePath]).styles
