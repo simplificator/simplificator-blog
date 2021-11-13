@@ -46,6 +46,9 @@ title: "User story mapping: a retrospective"
 date: 2017-03-30
 language: en
 author: Jane Appleseed
+tags:
+  - user-story-mapping
+  - projects
 ---
 ```
 
@@ -55,6 +58,10 @@ The front matter should have these fields:
 - `date`: the publication date in `YYYY-MM-DD` format. This is used in the permalink.
 - `language`: `en` or `de`. This is used to tell the browser and search engines which language is used, so that they don't need to guess.
 - `author`: your name :)
+
+Optional fields:
+
+- `tags`: a list of tags for the blog post
 
 ### Images
 
