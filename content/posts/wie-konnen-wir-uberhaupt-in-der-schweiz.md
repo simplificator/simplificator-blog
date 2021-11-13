@@ -3,6 +3,10 @@ title: "Wie können wir überhaupt in der Schweiz entwickeln?"
 date: 2013-05-03
 language: de
 author: Simplificator
+tags:
+  - agile
+  - outsourcing
+  - rails
 ---
 
 Ist es nicht viel zu teuer in der Schweiz Software zu entwickeln? Sätze in Indonesien, Indien, China oder Polen sind Faktoren tiefer als in der Schweiz. Warum müssen wir denn hier entwickeln? Mit Skype und allem müsste es doch einfach sein, im Ausland zu entwickeln - so kostengünstig dass eventuelle Kostenabweichungen oder Ineffizienzen überwunden werden können. Irgendwas stimmt mit dieser Rechnung offenbar nicht.

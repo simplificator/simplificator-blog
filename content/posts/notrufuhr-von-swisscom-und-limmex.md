@@ -3,6 +3,9 @@ title: "Notrufuhr von Swisscom und Limmex"
 date: 2012-11-16
 language: de
 author: Simplificator
+tags:
+  - swiss-made
+  - watch
 ---
 
 Zusammen mit Limmex lanciert Swisscom heute eine Swisscom Notrufuhr. Simplificator hat dazu das bereits vorhandene System angepasst und erweitert. Neu ist die Mandantenfähigkeit sowie ein eigenes Design für Swisscom.

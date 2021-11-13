@@ -3,6 +3,10 @@ title: "“Sitincator” - Simplificator’s Meeting Room Display"
 date: 2017-01-12
 language: en
 author: Serge Hänni
+tags:
+  - elm
+  - react
+  - raspberry-pi
 ---
 
 {% image "./content/images/image03.png", "Sitincator displays in front of meeting rooms" %}

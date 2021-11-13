@@ -3,6 +3,9 @@ title: "éncöding hèll (part 3)"
 date: 2015-01-12
 language: en
 author: Pascal Betz
+tags:
+  - encoding
+  - ruby
 ---
 
 The (currently) last part of my encoding hell series. To finish up I'll show some samples.

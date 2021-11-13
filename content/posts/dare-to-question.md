@@ -3,6 +3,9 @@ title: "Dare to question"
 date: 2015-02-12
 language: en
 author: Lukas Eppler
+tags:
+  - values
+  - philosophy
 ---
 
 #### We had a problem.

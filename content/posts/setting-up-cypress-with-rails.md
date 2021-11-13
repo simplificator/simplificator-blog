@@ -3,6 +3,10 @@ title: "Setting up Cypress with Rails"
 date: 2019-10-11
 language: en
 author: Dimiter Petrov
+tags:
+  - rails
+  - ruby
+  - testing
 ---
 
 [Cypress.io](https://cypress.io) has very nice tooling for testing. We have been experimenting with it in various projects, one of which is a Rails application.

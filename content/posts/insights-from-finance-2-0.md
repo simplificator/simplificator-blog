@@ -3,6 +3,8 @@ title: "Insights from Finance 2.0"
 date: 2018-03-23
 language: en
 author: Chanel Greco
+tags:
+  - events
 ---
 
 {% image "./content/images/badge_2.jpg", "Conference badge" %}

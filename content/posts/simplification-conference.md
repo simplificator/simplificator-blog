@@ -3,6 +3,8 @@ title: "Simplification Conference"
 date: 2015-09-18
 language: de
 author: Pascal Betz
+tags:
+  - events
 ---
 
 {% image "./content/images/simplification-conference-2015.png", "" %}
