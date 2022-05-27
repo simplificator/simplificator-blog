@@ -1,0 +1,40 @@
+---
+title: "Unsere Erfahrung mit Tailwind CSS"
+date: 2022-05-28
+language: de
+author: Simplificator
+---
+
+Visuelles Design ist entscheidend für den Eindruck, den Software bei Nutzern hinterläßt. Das hört sich einfach an, aber wenn es nicht durchdacht ist, wird es die User Experience beeinträchtigen und kann Ihren gesamten Softwareeinsatz in Frage stellen. Der Look & Feel Ihrer Software ist für den Erfolg Ihrer Software genauso wichtig, wie Ihre Datenbankstruktur oder andere Programmelemente. 
+
+Bei Simplificator integrieren wir uns in jedes CSS-Framework, das unsere Kunden verwenden, egal ob es sich dabei um ein maßgeschneidertes oder ein Standard-Framework wie Bootstrap handelt. 
+
+Wenn wir jedoch Softwareanwendungen von Grund auf entwickeln, ist unser bevorzugtes Framework [Tailwind CSS](https://tailwindcss.com/).
+
+
+
+## Was ist Tailwind CSS?
+
+Webentwicklung ist anspruchsvoll. Es gibt immer viele komplexe Aufgaben, um moderne Applikationen zu erstellen. Die Gestaltung des Frontends und jeglicher sichtbaren UI Elemente ist da keine Ausnahme. Die Zuordnung von Styling-Effekten kann mühsam und zeitaufwändig sein, die Entwicklung der Webanwendung signifikant hinauszögern, und die Kosten der Programmierung erhöhen.
+
+Mit Tailwind CSS können Sie auf effiziente Weise schöne benutzerdefinierte Benutzeroberflächen erstellen, ohne viel programmieren zu müssen. Tailwind CSS ein hochgradig anpassbares Low-Level-CSS-Framework, das es uns ermöglicht, definierte Designs schnell und effizient zu erstellen.
+
+
+## Vorteile von Tailwind CSS
+
+✅ <strong>Auf Wiedersehen CSS-Datei-Wald:</strong> Tailwind CSS macht es einfach, vordefinierte CSS Klassen direkt in den HTML-Code zu integrieren. Anhand dieses Rahmens können die Komponenten individuell gestaltet werden; Entwickler*Innen müssen nicht zwischen HTML und CSS Dateien hin und her wechseln.
+
+✅ <strong>Keine Kompromisse:</strong> Das Design ist komplett an die Wünsche des Kunden anpassbar, Kompromisse müssen nicht eingegangen werden. Trotz dieser genauen Anpassung minimieren wir bei Simplificator wir die Dauer (und somit Kosten) des entsprechenden Programmieraufwandes dank Tailwind CSS deutlich. 
+
+✅ <strong>Moderne Komponenten:</strong>: Auch wenn unseres Kunden kein eigenes UI-Design zu uns bringen, können wir mit Tailwind auf ein umfangreiches Angebot an externen Tailwind-Komponentenbibliotheken zugreifen, die Ihre Anwendung modern und Benutzerorientiert macht.
+
+✅ <strong>Mobile First:</strong> mit Tailwind implementieren wir komplexe responsive Layouts die Ihre Applikation von Desktop, über Mobiltelefone und IPads hin glänzen lassen. Der Programmieraufwand hierfür, sowie die damit verbundenen Kosten, gestalten sich mit Tailwind effizient und ökonomisch.
+
+✅ <strong>Klein und schnell:</strong> Mit zunehmender Größe Ihrer Applikation steigt auch die Größe der CSS-Datei. Dies ist bei Tailwind jedoch nicht der Fall: Tailwind kann mit PurgeCSS optimiert werden kann. PurgeCSS kann die CSS Dateigröße erheblich reduzieren, indem es den HTML-Code durchsucht und nicht verwendete Klassen automatisch entfernt. Sie müssen Ihre HTML und Ihre CSS Dateien nicht mehr händisch aneinander anpassen. Die CSS Elemente Ihrer Anwendung werden so klein wie möglich gehalten. 
+
+
+
+## Wir helfen mit Ihrer Migration zu Tailwind
+
+Wenn Ihre Anwendung sehr umfangreich ist, kann der Einsatz von Tailwind CSS für Sie von Nutzen sein. Simplificator hat Erfahrung in der Überführung bestehender, großer Applikationen zu Tailwind CSS. Wenn dies für Sie von Interesse ist, melden Sie sich bei uns! Wir besprechen gern, was möglich ist und in Ihrem Anwendungsfall Sinn macht: [info@simplificator.com](mailto:info@simplificator.com) Bis dahin!
+
