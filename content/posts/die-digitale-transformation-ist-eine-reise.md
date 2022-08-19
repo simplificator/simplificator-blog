@@ -57,4 +57,5 @@ Wenn Sie Ihr Unternehmen auf die nächste Stufe bringen und eine Informationsflu
 Wir freuen uns darauf, Sie auf Ihrem Weg zu begleiten.
 
 https://www.simplificator.com/contact
+
 https://www.simplificator.com/campaigns/sprechstunde
