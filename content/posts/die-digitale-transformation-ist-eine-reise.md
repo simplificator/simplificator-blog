@@ -40,9 +40,9 @@ Um Ihr Unternehmen auf dem Weg der digitalen Transformation zu begleiten ist es 
 
 Die digitale Transformation ist kein Projekt, das für alle passt. Sie erfordert eine sorgfältige Berücksichtigung des Kontexts und der Kultur Ihres Unternehmens sowie der Bedürfnisse und Fähigkeiten Ihrer Mitarbeiter. Ihre Lösung kann nicht einfach lauten: "Wir setzen Technologie ein, um dieses Problem zu lösen." Sie müssen sich Gedanken darüber machen, welche Art von Technologie für Ihre spezielle Situation am besten geeignet ist, wer sie nutzen wird und wie diese Personen mit ihr interagieren werden.
 Wir arbeiten mit Unternehmen zusammen, um wirkungsvolle Anwendungsfälle zu identifizieren, zu priorisieren und umzusetzen. Auf diese Weise können Kunden schnell Werte schaffen und gleichzeitig demonstrieren, was digitale Technologien und Arbeitsweisen für das Unternehmen leisten können. Der Prozess umfasst drei Phasen: 
-Innovation (Erstellung eines Machbarkeitsnachweises und Validierung des Geschäftsszenarios).
-Inkubation (Einführung eines minimal realisierbaren Produkts und Testen und Lernen mit agilen Sprints).
-Industrialisierung (Ausführen der Technologie und des Geschäftsprozesses in grossem Massstab). 
+* Innovation (Erstellung eines Machbarkeitsnachweises und Validierung des Geschäftsszenarios).
+* Inkubation (Einführung eines minimal realisierbaren Produkts und Testen und Lernen mit agilen Sprints).
+* Industrialisierung (Ausführen der Technologie und des Geschäftsprozesses in grossem Massstab). 
 Nach einer ersten Welle von Anwendungsfällen wiederholt sich der Prozess mit der nächsten Welle – und so weiter. Was in den verschiedenen Phasen umgesetzt wird ist nicht nur eine Frage des gesunden Menschenverstandes, sondern auch entscheidend, um die Zustimmung Ihres Teams zu erhalten und die Kosten überschaubar zu halten. Wenn Sie neue Technologien ausprobieren ohne zunächst zu verstehen, warum sie für Ihr spezielles Geschäftsproblem oder Ihre Geschäftseinheit geeignet sind, könnten Sie viel mehr als nötig in Testversionen investieren, die nie von jemandem im Team verwendet werden (und daher nutzlos sind). Andererseits sollten Sie, wenn Sie bahnbrechende Innovationen wie Chatbots oder künstliche Intelligenz (KI) testen, nicht einfach das für bare Münze nehmen, was deren Anbieter Ihnen sagen. 
 
 ## Arbeiten Sie Agil
