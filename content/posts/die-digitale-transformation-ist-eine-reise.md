@@ -53,7 +53,7 @@ Transformieren Sie Arbeitsweisen und das Betriebsmodell. Agile Arbeitsweisen erm
 ## Vergessen Sie nicht die Menschen und die Kultur
 
 Dies ist der wichtigste Aspekt der Innovation, insbesondere wenn es um die digitale Transformation geht. Menschen sind nicht nur eine Ressource, sondern auch ein Vermögenswert. Der Erfolg eines Unternehmens hängt von seinen Mitarbeitern ab: Sie sind die Hauptakteure bei der Gestaltung der Unternehmenskultur und tragen zum Erfolg oder Misserfolg des Unternehmens bei. Sie können noch so tolle Ideen haben, wenn Sie kein Team haben, mit dem sie umgesetzt werden können, werden sie nicht zum Tragen kommen.
-Die digitale Transformation ist eine Herausforderung, aber wenn man sie Schritt für Schritt angeht, kann man seine Ziele erreichen. Die digitale Transformation ist eine Reise, kein Ziel.
+Die digitale Transformation ist eine Herausforderung, aber wenn man sie Schritt für Schritt angeht, kann man seine Ziele erreichen. Die digitale Transformation selbst ist eine Reise, kein Ziel an sich.
 Wenn Sie Ihr Unternehmen auf die nächste Stufe bringen und eine Informationsflut vermeiden möchten, können Sie viel Zeit sparen, indem Sie unser kostenloses Digital Transformation Consulting in Anspruch nehmen. Wir arbeiten mit Ihrem Team zusammen und  können umgehend Empfehlungen zum Aufbau digitaler Fähigkeiten, zur Datenintegration und zur Verbesserung der IT-Infrastruktur abgeben
 Wir freuen uns darauf, Sie auf Ihrem Weg zu begleiten.
 
