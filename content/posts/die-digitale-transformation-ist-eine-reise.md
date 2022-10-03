@@ -12,9 +12,11 @@ Die Welt verändert sich, und die Unternehmen müssen sich mit ihr verändern. E
 Der Wandel betrifft Menschen, Kultur und Prozesse. Bei der digitalen Transformation geht es nicht nur um Technologie. Es geht darum, wie Sie Ihr Unternehmen so verändern, dass es in Zukunft kundenorientierter und agiler wird. Um dieses Ziel zu erreichen, müssen Sie verstehen, welchen Nutzen Ihr Unternehmen aus der digitalen Transformation zieht und wo es derzeit steht.
 Dies kann durch die Betrachtung von vier Dimensionen erreicht werden: 
 Prozesse (Modernisieren Sie Legacy-Prozesse, beschleunigen Sie effiziente Workflows, stärken Sie die Sicherheit und steigern Sie Ihre Produktivität)
-Menschen (Übergang von einzelnen Mitarbeitern zu vernetzten Teams)
-Kultur (Übergang von einer Befehls- und Kontrollkultur zu einer gemeinsamen Identität)
-Technologie (Übergang von monolithischen IT-Systemen zu Microservices)
+
+* Menschen (Übergang von einzelnen Mitarbeitern zu vernetzten Teams)
+* Kultur (Übergang von einer Befehls- und Kontrollkultur zu einer gemeinsamen Identität)
+* Technologie (Übergang von monolithischen IT-Systemen zu Microservices)
+
 
 ## Lösen Sie das richtige Problem
 
