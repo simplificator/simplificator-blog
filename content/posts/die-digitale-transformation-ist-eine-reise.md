@@ -34,7 +34,7 @@ Sie werden Technologie- und Lösungspartner finden wollen, die Ihre Strategie de
 
 ## Trends und Innovationen pragmatisch bewerten
 
-Um Ihr Unternehmen auf dem Weg der digitalen Transformation zu begleiten ist es wichtig zu verstehen, wie Trends und Innovationen helfen können. Der erste Schritt besteht darin, diese Entwicklungen aus einem pragmatischen Blickwinkel heraus zu bewerten. Sie müssen nicht nur die Technologie, sondern auch den Business Case, die Personalprozesse und die Auswirkungen auf die Kultur betrachten. Ihr Ziel sollte es sein, eine Lösung zu finden, die mit Ihrer Vision für die Zukunft übereinstimmt und gleichzeitig die aktuellen Anforderungen innerhalb eines angemessenen Zeitrahmens erfüllt.
+Um Ihr Unternehmen auf dem Weg der digitalen Transformation zu begleiten, ist es wichtig zu verstehen, wie Trends und Innovationen helfen können. Der erste Schritt besteht darin, diese Entwicklungen aus einem pragmatischen Blickwinkel heraus zu bewerten. Sie müssen nicht nur die Technologie, sondern auch den Business Case, die Personalprozesse und die Auswirkungen auf die Kultur betrachten. Ihr Ziel sollte es sein, eine Lösung zu finden, die mit Ihrer Vision für die Zukunft übereinstimmt und gleichzeitig die aktuellen Anforderungen innerhalb eines angemessenen Zeitrahmens erfüllt.
 
 ## Testen und pilotieren Sie neue Technologien, aber nur dort, wo es sinnvoll ist
 
