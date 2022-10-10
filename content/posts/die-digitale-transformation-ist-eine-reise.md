@@ -25,11 +25,12 @@ Die Verwaltung von Talenten und der Aufbau digitaler Fähigkeiten sind zwei Mög
 ## Finden Sie die richtigen Technologie- und Lösungspartner
 
 Sie werden Technologie- und Lösungspartner finden wollen, die Ihre Strategie der digitalen Transformation unterstützen können. Im Folgenden finden Sie einige Tipps, wie Sie dies tun können:
-Verstehen Sie die Vorteile der Zusammenarbeit mit einem Technologiepartner: Ein Partner kann Ihrem Unternehmen helfen, Zugang zu den neuesten Spitzentechnologien zu erhalten, aber er verfügt auch über umfassende Erfahrung mit der Implementierung neuer Lösungen, die sich in anderen Unternehmen bewährt haben. 
-Finden Sie die wichtigsten Kriterien für die Auswahl eines Partners: Stellen Sie sicher, dass Sie klare Anforderungen an die einzelnen Anbieter haben, bevor Sie sich für einen Anbieter entscheiden. So werden Sie später keine Überraschungen erleben, wenn Sie Zeit damit verbringen, die Produkte oder Dienstleistungen der anderen Anbieter zu bewerten.
-Erstellen Sie eine umfassende Liste potenzieller Anbieter auf der Grundlage dieser Kriterien
-Anbieter bewerten: Nehmen Sie Kontakt zu den Anbietern auf und bitten Sie sie um detaillierte Informationen über ihre Produkte oder Dienstleistungen sowie um Fallstudien von anderen Kunden, die sie erfolgreich eingesetzt haben. * Arbeiten Sie mit dem besten Anbieter für Ihre Bedürfnisse zusammen: Wenn Sie den richtigen Partner gefunden haben, ist es an der Zeit, mit ihm einen Plan für die Einführung der neuen Technologie zu erarbeiten.
-Lassen Sie sich nicht zu viel verkaufen. Lösungspartner leben davon, die Probleme als grösser darzustellen als sie sind, und vertrauen darauf dass ihre Kunden nicht genug technisches Selbstbewusstsein haben.
+* Verstehen Sie die Vorteile der Zusammenarbeit mit einem Technologiepartner: Ein Partner kann Ihrem Unternehmen helfen, Zugang zu den neuesten Spitzentechnologien zu erhalten, aber er verfügt auch über umfassende Erfahrung mit der Implementierung neuer Lösungen, die sich in anderen Unternehmen bewährt haben. 
+* Finden Sie die wichtigsten Kriterien für die Auswahl eines Partners: Stellen Sie sicher, dass Sie klare Anforderungen an die einzelnen Anbieter haben, bevor Sie sich für einen Anbieter entscheiden. So werden Sie später keine Überraschungen erleben, wenn Sie Zeit damit verbringen, die Produkte oder Dienstleistungen der anderen Anbieter zu bewerten.
+* Erstellen Sie eine umfassende Liste potenzieller Anbieter auf der Grundlage dieser Kriterien
+* Anbieter bewerten: Nehmen Sie Kontakt zu den Anbietern auf und bitten Sie sie um detaillierte Informationen über ihre Produkte oder Dienstleistungen sowie um Fallstudien von anderen Kunden, die sie erfolgreich eingesetzt haben.
+* Arbeiten Sie mit dem besten Anbieter für Ihre Bedürfnisse zusammen: Wenn Sie den richtigen Partner gefunden haben, ist es an der Zeit, mit ihm einen Plan für die Einführung der neuen Technologie zu erarbeiten.
+* Lassen Sie sich nicht zu viel verkaufen. Lösungspartner leben davon, die Probleme als grösser darzustellen als sie sind, und vertrauen darauf dass ihre Kunden nicht genug technisches Selbstbewusstsein haben.
 
 ## Trends und Innovationen pragmatisch bewerten
 
